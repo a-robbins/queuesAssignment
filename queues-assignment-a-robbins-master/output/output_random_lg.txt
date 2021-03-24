@@ -1,0 +1,2749 @@
+Accepting input
+> calling size
+size: 0
+> calling size
+size: 0
+> calling enq
+> calling peek
+front: Hasad
+> calling size
+size: 1
+> calling print
+front --> Hasad --> back
+> calling enq
+> calling print
+front --> Hasad --> Blair --> back
+> calling peek
+front: Hasad
+> calling isEmpty
+queue is not empty
+> calling print
+front --> Hasad --> Blair --> back
+> calling print
+front --> Hasad --> Blair --> back
+> calling enq
+> calling peek
+front: Hasad
+> calling enq
+> calling size
+size: 4
+> calling isEmpty
+queue is not empty
+> calling peek
+front: Hasad
+> calling print
+front --> Hasad --> Blair --> Emery --> Jared --> back
+> calling deq
+dequeued Hasad
+> calling enq
+> calling size
+size: 4
+> calling enq
+> calling deq
+dequeued Blair
+> calling isEmpty
+queue is not empty
+> calling peek
+front: Emery
+> calling isEmpty
+queue is not empty
+> calling deq
+dequeued Emery
+> calling deq
+dequeued Jared
+> calling isEmpty
+queue is not empty
+> calling print
+front --> Maisie --> Levi --> back
+> calling print
+front --> Maisie --> Levi --> back
+> calling peek
+front: Maisie
+> calling print
+front --> Maisie --> Levi --> back
+> calling peek
+front: Maisie
+> calling size
+size: 2
+> calling print
+front --> Maisie --> Levi --> back
+> calling size
+size: 2
+> calling isEmpty
+queue is not empty
+> calling print
+front --> Maisie --> Levi --> back
+> calling enq
+> calling deq
+dequeued Maisie
+> calling size
+size: 2
+> calling deq
+dequeued Levi
+> calling enq
+> calling size
+size: 2
+> calling print
+front --> Mariam --> Simone --> back
+> calling enq
+> calling deq
+dequeued Mariam
+> calling size
+size: 2
+> calling print
+front --> Simone --> Hector --> back
+> calling isEmpty
+queue is not empty
+> calling isEmpty
+queue is not empty
+> calling isEmpty
+queue is not empty
+> calling deq
+dequeued Simone
+> calling enq
+> calling print
+front --> Hector --> Zephania --> back
+> calling size
+size: 2
+> calling peek
+front: Hector
+> calling enq
+> calling size
+size: 3
+> calling deq
+dequeued Hector
+> calling print
+front --> Zephania --> Mufutau --> back
+> calling enq
+> calling deq
+dequeued Zephania
+> calling size
+size: 2
+> calling peek
+front: Mufutau
+> calling isEmpty
+queue is not empty
+> calling enq
+> calling size
+size: 3
+> calling print
+front --> Mufutau --> Eagan --> Drake --> back
+> calling print
+front --> Mufutau --> Eagan --> Drake --> back
+> calling peek
+front: Mufutau
+> calling enq
+> calling size
+size: 4
+> calling isEmpty
+queue is not empty
+> calling isEmpty
+queue is not empty
+> calling peek
+front: Mufutau
+> calling peek
+front: Mufutau
+> calling print
+front --> Mufutau --> Eagan --> Drake --> Zeus --> back
+> calling size
+size: 4
+> calling peek
+front: Mufutau
+> calling print
+front --> Mufutau --> Eagan --> Drake --> Zeus --> back
+> calling enq
+> calling isEmpty
+queue is not empty
+> calling size
+size: 5
+> calling size
+size: 5
+> calling isEmpty
+queue is not empty
+> calling deq
+dequeued Mufutau
+> calling isEmpty
+queue is not empty
+> calling size
+size: 4
+> calling size
+size: 4
+> calling peek
+front: Eagan
+> calling size
+size: 4
+> calling isEmpty
+queue is not empty
+> calling enq
+> calling enq
+> calling deq
+dequeued Eagan
+> calling enq
+> calling size
+size: 6
+> calling print
+front --> Drake --> Zeus --> Kevin --> Kato --> Uriah --> Whilemina --> back
+> calling size
+size: 6
+> calling size
+size: 6
+> calling size
+size: 6
+> calling print
+front --> Drake --> Zeus --> Kevin --> Kato --> Uriah --> Whilemina --> back
+> calling isEmpty
+queue is not empty
+> calling deq
+dequeued Drake
+> calling print
+front --> Zeus --> Kevin --> Kato --> Uriah --> Whilemina --> back
+> calling size
+size: 5
+> calling enq
+> calling peek
+front: Zeus
+> calling enq
+> calling print
+front --> Zeus --> Kevin --> Kato --> Uriah --> Whilemina --> Melyssa --> Levi --> back
+> calling print
+front --> Zeus --> Kevin --> Kato --> Uriah --> Whilemina --> Melyssa --> Levi --> back
+> calling isEmpty
+queue is not empty
+> calling print
+front --> Zeus --> Kevin --> Kato --> Uriah --> Whilemina --> Melyssa --> Levi --> back
+> calling size
+size: 7
+> calling enq
+> calling enq
+> calling isEmpty
+queue is not empty
+> calling size
+size: 9
+> calling isEmpty
+queue is not empty
+> calling size
+size: 9
+> calling enq
+> calling peek
+front: Zeus
+> calling deq
+dequeued Zeus
+> calling size
+size: 9
+> calling enq
+> calling peek
+front: Kevin
+> calling size
+size: 10
+> calling print
+front --> Kevin --> Kato --> Uriah --> Whilemina --> Melyssa --> Levi --> Nero --> Roanna --> Roanna --> Yoko --> back
+> calling peek
+front: Kevin
+> calling size
+size: 10
+> calling isEmpty
+queue is not empty
+> calling isEmpty
+queue is not empty
+> calling peek
+front: Kevin
+> calling print
+front --> Kevin --> Kato --> Uriah --> Whilemina --> Melyssa --> Levi --> Nero --> Roanna --> Roanna --> Yoko --> back
+> calling enq
+> calling deq
+dequeued Kevin
+> calling deq
+dequeued Kato
+> calling size
+size: 9
+> calling print
+front --> Uriah --> Whilemina --> Melyssa --> Levi --> Nero --> Roanna --> Roanna --> Yoko --> Kato --> back
+> calling enq
+> calling enq
+> calling peek
+front: Uriah
+> calling deq
+dequeued Uriah
+> calling enq
+> calling print
+front --> Whilemina --> Melyssa --> Levi --> Nero --> Roanna --> Roanna --> Yoko --> Kato --> Deacon --> Axel --> Jelani --> back
+> calling peek
+front: Whilemina
+> calling deq
+dequeued Whilemina
+> calling isEmpty
+queue is not empty
+> calling print
+front --> Melyssa --> Levi --> Nero --> Roanna --> Roanna --> Yoko --> Kato --> Deacon --> Axel --> Jelani --> back
+> calling deq
+dequeued Melyssa
+> calling size
+size: 9
+> calling enq
+> calling isEmpty
+queue is not empty
+> calling size
+size: 10
+> calling size
+size: 10
+> calling peek
+front: Levi
+> calling enq
+> calling deq
+dequeued Levi
+> calling enq
+> calling enq
+> calling size
+size: 12
+> calling peek
+front: Nero
+> calling enq
+> calling print
+front --> Nero --> Roanna --> Roanna --> Yoko --> Kato --> Deacon --> Axel --> Jelani --> Chaim --> Imelda --> Wynter --> Kyla --> Drake --> back
+> calling peek
+front: Nero
+> calling print
+front --> Nero --> Roanna --> Roanna --> Yoko --> Kato --> Deacon --> Axel --> Jelani --> Chaim --> Imelda --> Wynter --> Kyla --> Drake --> back
+> calling print
+front --> Nero --> Roanna --> Roanna --> Yoko --> Kato --> Deacon --> Axel --> Jelani --> Chaim --> Imelda --> Wynter --> Kyla --> Drake --> back
+> calling isEmpty
+queue is not empty
+> calling size
+size: 13
+> calling deq
+dequeued Nero
+> calling peek
+front: Roanna
+> calling deq
+dequeued Roanna
+> calling peek
+front: Roanna
+> calling isEmpty
+queue is not empty
+> calling enq
+> calling deq
+dequeued Roanna
+> calling deq
+dequeued Yoko
+> calling peek
+front: Kato
+> calling deq
+dequeued Kato
+> calling isEmpty
+queue is not empty
+> calling size
+size: 9
+> calling print
+front --> Deacon --> Axel --> Jelani --> Chaim --> Imelda --> Wynter --> Kyla --> Drake --> Dane --> back
+> calling enq
+> calling enq
+> calling print
+front --> Deacon --> Axel --> Jelani --> Chaim --> Imelda --> Wynter --> Kyla --> Drake --> Dane --> Aladdin --> Iona --> back
+> calling enq
+> calling isEmpty
+queue is not empty
+> calling isEmpty
+queue is not empty
+> calling size
+size: 12
+> calling enq
+> calling isEmpty
+queue is not empty
+> calling deq
+dequeued Deacon
+> calling isEmpty
+queue is not empty
+> calling size
+size: 12
+> calling print
+front --> Axel --> Jelani --> Chaim --> Imelda --> Wynter --> Kyla --> Drake --> Dane --> Aladdin --> Iona --> Jasper --> Constance --> back
+> calling enq
+> calling enq
+> calling deq
+dequeued Axel
+> calling enq
+> calling isEmpty
+queue is not empty
+> calling enq
+> calling isEmpty
+queue is not empty
+> calling print
+front --> Jelani --> Chaim --> Imelda --> Wynter --> Kyla --> Drake --> Dane --> Aladdin --> Iona --> Jasper --> Constance --> Hilel --> Dane --> Buffy --> Tiger --> back
+> calling enq
+> calling print
+front --> Jelani --> Chaim --> Imelda --> Wynter --> Kyla --> Drake --> Dane --> Aladdin --> Iona --> Jasper --> Constance --> Hilel --> Dane --> Buffy --> Tiger --> Veda --> back
+> calling isEmpty
+queue is not empty
+> calling enq
+> calling print
+front --> Jelani --> Chaim --> Imelda --> Wynter --> Kyla --> Drake --> Dane --> Aladdin --> Iona --> Jasper --> Constance --> Hilel --> Dane --> Buffy --> Tiger --> Veda --> Vance --> back
+> calling isEmpty
+queue is not empty
+> calling size
+size: 17
+> calling isEmpty
+queue is not empty
+> calling print
+front --> Jelani --> Chaim --> Imelda --> Wynter --> Kyla --> Drake --> Dane --> Aladdin --> Iona --> Jasper --> Constance --> Hilel --> Dane --> Buffy --> Tiger --> Veda --> Vance --> back
+> calling size
+size: 17
+> calling enq
+> calling print
+front --> Jelani --> Chaim --> Imelda --> Wynter --> Kyla --> Drake --> Dane --> Aladdin --> Iona --> Jasper --> Constance --> Hilel --> Dane --> Buffy --> Tiger --> Veda --> Vance --> Allistair --> back
+> calling size
+size: 18
+> calling print
+front --> Jelani --> Chaim --> Imelda --> Wynter --> Kyla --> Drake --> Dane --> Aladdin --> Iona --> Jasper --> Constance --> Hilel --> Dane --> Buffy --> Tiger --> Veda --> Vance --> Allistair --> back
+> calling size
+size: 18
+> calling isEmpty
+queue is not empty
+> calling print
+front --> Jelani --> Chaim --> Imelda --> Wynter --> Kyla --> Drake --> Dane --> Aladdin --> Iona --> Jasper --> Constance --> Hilel --> Dane --> Buffy --> Tiger --> Veda --> Vance --> Allistair --> back
+> calling print
+front --> Jelani --> Chaim --> Imelda --> Wynter --> Kyla --> Drake --> Dane --> Aladdin --> Iona --> Jasper --> Constance --> Hilel --> Dane --> Buffy --> Tiger --> Veda --> Vance --> Allistair --> back
+> calling peek
+front: Jelani
+> calling deq
+dequeued Jelani
+> calling peek
+front: Chaim
+> calling print
+front --> Chaim --> Imelda --> Wynter --> Kyla --> Drake --> Dane --> Aladdin --> Iona --> Jasper --> Constance --> Hilel --> Dane --> Buffy --> Tiger --> Veda --> Vance --> Allistair --> back
+> calling print
+front --> Chaim --> Imelda --> Wynter --> Kyla --> Drake --> Dane --> Aladdin --> Iona --> Jasper --> Constance --> Hilel --> Dane --> Buffy --> Tiger --> Veda --> Vance --> Allistair --> back
+> calling enq
+> calling peek
+front: Chaim
+> calling enq
+> calling peek
+front: Chaim
+> calling print
+front --> Chaim --> Imelda --> Wynter --> Kyla --> Drake --> Dane --> Aladdin --> Iona --> Jasper --> Constance --> Hilel --> Dane --> Buffy --> Tiger --> Veda --> Vance --> Allistair --> Christian --> Brittany --> back
+> calling deq
+dequeued Chaim
+> calling isEmpty
+queue is not empty
+> calling enq
+> calling print
+front --> Imelda --> Wynter --> Kyla --> Drake --> Dane --> Aladdin --> Iona --> Jasper --> Constance --> Hilel --> Dane --> Buffy --> Tiger --> Veda --> Vance --> Allistair --> Christian --> Brittany --> Arsenio --> back
+> calling deq
+dequeued Imelda
+> calling enq
+> calling enq
+> calling peek
+front: Wynter
+> calling peek
+front: Wynter
+> calling print
+front --> Wynter --> Kyla --> Drake --> Dane --> Aladdin --> Iona --> Jasper --> Constance --> Hilel --> Dane --> Buffy --> Tiger --> Veda --> Vance --> Allistair --> Christian --> Brittany --> Arsenio --> Gil --> Cameron --> back
+> calling isEmpty
+queue is not empty
+> calling print
+front --> Wynter --> Kyla --> Drake --> Dane --> Aladdin --> Iona --> Jasper --> Constance --> Hilel --> Dane --> Buffy --> Tiger --> Veda --> Vance --> Allistair --> Christian --> Brittany --> Arsenio --> Gil --> Cameron --> back
+> calling peek
+front: Wynter
+> calling peek
+front: Wynter
+> calling peek
+front: Wynter
+> calling isEmpty
+queue is not empty
+> calling peek
+front: Wynter
+> calling print
+front --> Wynter --> Kyla --> Drake --> Dane --> Aladdin --> Iona --> Jasper --> Constance --> Hilel --> Dane --> Buffy --> Tiger --> Veda --> Vance --> Allistair --> Christian --> Brittany --> Arsenio --> Gil --> Cameron --> back
+> calling peek
+front: Wynter
+> calling size
+size: 20
+> calling size
+size: 20
+> calling peek
+front: Wynter
+> calling peek
+front: Wynter
+> calling enq
+> calling size
+size: 21
+> calling print
+front --> Wynter --> Kyla --> Drake --> Dane --> Aladdin --> Iona --> Jasper --> Constance --> Hilel --> Dane --> Buffy --> Tiger --> Veda --> Vance --> Allistair --> Christian --> Brittany --> Arsenio --> Gil --> Cameron --> Travis --> back
+> calling isEmpty
+queue is not empty
+> calling isEmpty
+queue is not empty
+> calling enq
+> calling deq
+dequeued Wynter
+> calling peek
+front: Kyla
+> calling deq
+dequeued Kyla
+> calling peek
+front: Drake
+> calling peek
+front: Drake
+> calling size
+size: 20
+> calling print
+front --> Drake --> Dane --> Aladdin --> Iona --> Jasper --> Constance --> Hilel --> Dane --> Buffy --> Tiger --> Veda --> Vance --> Allistair --> Christian --> Brittany --> Arsenio --> Gil --> Cameron --> Travis --> Alden --> back
+> calling enq
+> calling size
+size: 21
+> calling print
+front --> Drake --> Dane --> Aladdin --> Iona --> Jasper --> Constance --> Hilel --> Dane --> Buffy --> Tiger --> Veda --> Vance --> Allistair --> Christian --> Brittany --> Arsenio --> Gil --> Cameron --> Travis --> Alden --> Pearl --> back
+> calling print
+front --> Drake --> Dane --> Aladdin --> Iona --> Jasper --> Constance --> Hilel --> Dane --> Buffy --> Tiger --> Veda --> Vance --> Allistair --> Christian --> Brittany --> Arsenio --> Gil --> Cameron --> Travis --> Alden --> Pearl --> back
+> calling isEmpty
+queue is not empty
+> calling isEmpty
+queue is not empty
+> calling size
+size: 21
+> calling isEmpty
+queue is not empty
+> calling enq
+> calling isEmpty
+queue is not empty
+> calling print
+front --> Drake --> Dane --> Aladdin --> Iona --> Jasper --> Constance --> Hilel --> Dane --> Buffy --> Tiger --> Veda --> Vance --> Allistair --> Christian --> Brittany --> Arsenio --> Gil --> Cameron --> Travis --> Alden --> Pearl --> Bradley --> back
+> calling print
+front --> Drake --> Dane --> Aladdin --> Iona --> Jasper --> Constance --> Hilel --> Dane --> Buffy --> Tiger --> Veda --> Vance --> Allistair --> Christian --> Brittany --> Arsenio --> Gil --> Cameron --> Travis --> Alden --> Pearl --> Bradley --> back
+> calling size
+size: 22
+> calling isEmpty
+queue is not empty
+> calling peek
+front: Drake
+> calling size
+size: 22
+> calling enq
+> calling enq
+> calling deq
+dequeued Drake
+> calling deq
+dequeued Dane
+> calling deq
+dequeued Aladdin
+> calling isEmpty
+queue is not empty
+> calling enq
+> calling print
+front --> Iona --> Jasper --> Constance --> Hilel --> Dane --> Buffy --> Tiger --> Veda --> Vance --> Allistair --> Christian --> Brittany --> Arsenio --> Gil --> Cameron --> Travis --> Alden --> Pearl --> Bradley --> Germaine --> Jacob --> Christian --> back
+> calling peek
+front: Iona
+> calling print
+front --> Iona --> Jasper --> Constance --> Hilel --> Dane --> Buffy --> Tiger --> Veda --> Vance --> Allistair --> Christian --> Brittany --> Arsenio --> Gil --> Cameron --> Travis --> Alden --> Pearl --> Bradley --> Germaine --> Jacob --> Christian --> back
+> calling peek
+front: Iona
+> calling size
+size: 22
+> calling size
+size: 22
+> calling isEmpty
+queue is not empty
+> calling isEmpty
+queue is not empty
+> calling deq
+dequeued Iona
+> calling isEmpty
+queue is not empty
+> calling print
+front --> Jasper --> Constance --> Hilel --> Dane --> Buffy --> Tiger --> Veda --> Vance --> Allistair --> Christian --> Brittany --> Arsenio --> Gil --> Cameron --> Travis --> Alden --> Pearl --> Bradley --> Germaine --> Jacob --> Christian --> back
+> calling isEmpty
+queue is not empty
+> calling isEmpty
+queue is not empty
+> calling print
+front --> Jasper --> Constance --> Hilel --> Dane --> Buffy --> Tiger --> Veda --> Vance --> Allistair --> Christian --> Brittany --> Arsenio --> Gil --> Cameron --> Travis --> Alden --> Pearl --> Bradley --> Germaine --> Jacob --> Christian --> back
+> calling enq
+> calling print
+front --> Jasper --> Constance --> Hilel --> Dane --> Buffy --> Tiger --> Veda --> Vance --> Allistair --> Christian --> Brittany --> Arsenio --> Gil --> Cameron --> Travis --> Alden --> Pearl --> Bradley --> Germaine --> Jacob --> Christian --> Hope --> back
+> calling isEmpty
+queue is not empty
+> calling isEmpty
+queue is not empty
+> calling enq
+> calling enq
+> calling peek
+front: Jasper
+> calling print
+front --> Jasper --> Constance --> Hilel --> Dane --> Buffy --> Tiger --> Veda --> Vance --> Allistair --> Christian --> Brittany --> Arsenio --> Gil --> Cameron --> Travis --> Alden --> Pearl --> Bradley --> Germaine --> Jacob --> Christian --> Hope --> Keelie --> Lester --> back
+> calling isEmpty
+queue is not empty
+> calling enq
+> calling peek
+front: Jasper
+> calling deq
+dequeued Jasper
+> calling deq
+dequeued Constance
+> calling deq
+dequeued Hilel
+> calling peek
+front: Dane
+> calling isEmpty
+queue is not empty
+> calling enq
+> calling deq
+dequeued Dane
+> calling deq
+dequeued Buffy
+> calling isEmpty
+queue is not empty
+> calling peek
+front: Tiger
+> calling peek
+front: Tiger
+> calling print
+front --> Tiger --> Veda --> Vance --> Allistair --> Christian --> Brittany --> Arsenio --> Gil --> Cameron --> Travis --> Alden --> Pearl --> Bradley --> Germaine --> Jacob --> Christian --> Hope --> Keelie --> Lester --> Jessamine --> Kenneth --> back
+> calling deq
+dequeued Tiger
+> calling peek
+front: Veda
+> calling deq
+dequeued Veda
+> calling isEmpty
+queue is not empty
+> calling deq
+dequeued Vance
+> calling peek
+front: Allistair
+> calling print
+front --> Allistair --> Christian --> Brittany --> Arsenio --> Gil --> Cameron --> Travis --> Alden --> Pearl --> Bradley --> Germaine --> Jacob --> Christian --> Hope --> Keelie --> Lester --> Jessamine --> Kenneth --> back
+> calling size
+size: 18
+> calling size
+size: 18
+> calling size
+size: 18
+> calling isEmpty
+queue is not empty
+> calling isEmpty
+queue is not empty
+> calling size
+size: 18
+> calling enq
+> calling isEmpty
+queue is not empty
+> calling deq
+dequeued Allistair
+> calling print
+front --> Christian --> Brittany --> Arsenio --> Gil --> Cameron --> Travis --> Alden --> Pearl --> Bradley --> Germaine --> Jacob --> Christian --> Hope --> Keelie --> Lester --> Jessamine --> Kenneth --> Flavia --> back
+> calling size
+size: 18
+> calling isEmpty
+queue is not empty
+> calling size
+size: 18
+> calling size
+size: 18
+> calling isEmpty
+queue is not empty
+> calling enq
+> calling isEmpty
+queue is not empty
+> calling isEmpty
+queue is not empty
+> calling size
+size: 19
+> calling peek
+front: Christian
+> calling deq
+dequeued Christian
+> calling deq
+dequeued Brittany
+> calling isEmpty
+queue is not empty
+> calling size
+size: 17
+> calling peek
+front: Arsenio
+> calling enq
+> calling print
+front --> Arsenio --> Gil --> Cameron --> Travis --> Alden --> Pearl --> Bradley --> Germaine --> Jacob --> Christian --> Hope --> Keelie --> Lester --> Jessamine --> Kenneth --> Flavia --> Axel --> Tiger --> back
+> calling enq
+> calling deq
+dequeued Arsenio
+> calling enq
+> calling size
+size: 19
+> calling size
+size: 19
+> calling isEmpty
+queue is not empty
+> calling print
+front --> Gil --> Cameron --> Travis --> Alden --> Pearl --> Bradley --> Germaine --> Jacob --> Christian --> Hope --> Keelie --> Lester --> Jessamine --> Kenneth --> Flavia --> Axel --> Tiger --> Craig --> Cade --> back
+> calling peek
+front: Gil
+> calling size
+size: 19
+> calling print
+front --> Gil --> Cameron --> Travis --> Alden --> Pearl --> Bradley --> Germaine --> Jacob --> Christian --> Hope --> Keelie --> Lester --> Jessamine --> Kenneth --> Flavia --> Axel --> Tiger --> Craig --> Cade --> back
+> calling peek
+front: Gil
+> calling size
+size: 19
+> calling print
+front --> Gil --> Cameron --> Travis --> Alden --> Pearl --> Bradley --> Germaine --> Jacob --> Christian --> Hope --> Keelie --> Lester --> Jessamine --> Kenneth --> Flavia --> Axel --> Tiger --> Craig --> Cade --> back
+> calling size
+size: 19
+> calling enq
+> calling isEmpty
+queue is not empty
+> calling peek
+front: Gil
+> calling isEmpty
+queue is not empty
+> calling deq
+dequeued Gil
+> calling isEmpty
+queue is not empty
+> calling peek
+front: Cameron
+> calling enq
+> calling print
+front --> Cameron --> Travis --> Alden --> Pearl --> Bradley --> Germaine --> Jacob --> Christian --> Hope --> Keelie --> Lester --> Jessamine --> Kenneth --> Flavia --> Axel --> Tiger --> Craig --> Cade --> Brian --> Fletcher --> back
+> calling deq
+dequeued Cameron
+> calling isEmpty
+queue is not empty
+> calling print
+front --> Travis --> Alden --> Pearl --> Bradley --> Germaine --> Jacob --> Christian --> Hope --> Keelie --> Lester --> Jessamine --> Kenneth --> Flavia --> Axel --> Tiger --> Craig --> Cade --> Brian --> Fletcher --> back
+> calling peek
+front: Travis
+> calling enq
+> calling print
+front --> Travis --> Alden --> Pearl --> Bradley --> Germaine --> Jacob --> Christian --> Hope --> Keelie --> Lester --> Jessamine --> Kenneth --> Flavia --> Axel --> Tiger --> Craig --> Cade --> Brian --> Fletcher --> Rylee --> back
+> calling print
+front --> Travis --> Alden --> Pearl --> Bradley --> Germaine --> Jacob --> Christian --> Hope --> Keelie --> Lester --> Jessamine --> Kenneth --> Flavia --> Axel --> Tiger --> Craig --> Cade --> Brian --> Fletcher --> Rylee --> back
+> calling enq
+> calling peek
+front: Travis
+> calling isEmpty
+queue is not empty
+> calling print
+front --> Travis --> Alden --> Pearl --> Bradley --> Germaine --> Jacob --> Christian --> Hope --> Keelie --> Lester --> Jessamine --> Kenneth --> Flavia --> Axel --> Tiger --> Craig --> Cade --> Brian --> Fletcher --> Rylee --> Iona --> back
+> calling isEmpty
+queue is not empty
+> calling peek
+front: Travis
+> calling deq
+dequeued Travis
+> calling peek
+front: Alden
+> calling print
+front --> Alden --> Pearl --> Bradley --> Germaine --> Jacob --> Christian --> Hope --> Keelie --> Lester --> Jessamine --> Kenneth --> Flavia --> Axel --> Tiger --> Craig --> Cade --> Brian --> Fletcher --> Rylee --> Iona --> back
+> calling deq
+dequeued Alden
+> calling size
+size: 19
+> calling peek
+front: Pearl
+> calling enq
+> calling print
+front --> Pearl --> Bradley --> Germaine --> Jacob --> Christian --> Hope --> Keelie --> Lester --> Jessamine --> Kenneth --> Flavia --> Axel --> Tiger --> Craig --> Cade --> Brian --> Fletcher --> Rylee --> Iona --> Jonas --> back
+> calling isEmpty
+queue is not empty
+> calling size
+size: 20
+> calling print
+front --> Pearl --> Bradley --> Germaine --> Jacob --> Christian --> Hope --> Keelie --> Lester --> Jessamine --> Kenneth --> Flavia --> Axel --> Tiger --> Craig --> Cade --> Brian --> Fletcher --> Rylee --> Iona --> Jonas --> back
+> calling peek
+front: Pearl
+> calling peek
+front: Pearl
+> calling peek
+front: Pearl
+> calling peek
+front: Pearl
+> calling print
+front --> Pearl --> Bradley --> Germaine --> Jacob --> Christian --> Hope --> Keelie --> Lester --> Jessamine --> Kenneth --> Flavia --> Axel --> Tiger --> Craig --> Cade --> Brian --> Fletcher --> Rylee --> Iona --> Jonas --> back
+> calling isEmpty
+queue is not empty
+> calling peek
+front: Pearl
+> calling peek
+front: Pearl
+> calling peek
+front: Pearl
+> calling isEmpty
+queue is not empty
+> calling deq
+dequeued Pearl
+> calling peek
+front: Bradley
+> calling enq
+> calling deq
+dequeued Bradley
+> calling deq
+dequeued Germaine
+> calling deq
+dequeued Jacob
+> calling peek
+front: Christian
+> calling peek
+front: Christian
+> calling print
+front --> Christian --> Hope --> Keelie --> Lester --> Jessamine --> Kenneth --> Flavia --> Axel --> Tiger --> Craig --> Cade --> Brian --> Fletcher --> Rylee --> Iona --> Jonas --> Basia --> back
+> calling deq
+dequeued Christian
+> calling peek
+front: Hope
+> calling isEmpty
+queue is not empty
+> calling print
+front --> Hope --> Keelie --> Lester --> Jessamine --> Kenneth --> Flavia --> Axel --> Tiger --> Craig --> Cade --> Brian --> Fletcher --> Rylee --> Iona --> Jonas --> Basia --> back
+> calling enq
+> calling isEmpty
+queue is not empty
+> calling print
+front --> Hope --> Keelie --> Lester --> Jessamine --> Kenneth --> Flavia --> Axel --> Tiger --> Craig --> Cade --> Brian --> Fletcher --> Rylee --> Iona --> Jonas --> Basia --> Cameron --> back
+> calling size
+size: 17
+> calling size
+size: 17
+> calling isEmpty
+queue is not empty
+> calling size
+size: 17
+> calling enq
+> calling print
+front --> Hope --> Keelie --> Lester --> Jessamine --> Kenneth --> Flavia --> Axel --> Tiger --> Craig --> Cade --> Brian --> Fletcher --> Rylee --> Iona --> Jonas --> Basia --> Cameron --> Elijah --> back
+> calling size
+size: 18
+> calling deq
+dequeued Hope
+> calling deq
+dequeued Keelie
+> calling isEmpty
+queue is not empty
+> calling enq
+> calling print
+front --> Lester --> Jessamine --> Kenneth --> Flavia --> Axel --> Tiger --> Craig --> Cade --> Brian --> Fletcher --> Rylee --> Iona --> Jonas --> Basia --> Cameron --> Elijah --> Macy --> back
+> calling size
+size: 17
+> calling print
+front --> Lester --> Jessamine --> Kenneth --> Flavia --> Axel --> Tiger --> Craig --> Cade --> Brian --> Fletcher --> Rylee --> Iona --> Jonas --> Basia --> Cameron --> Elijah --> Macy --> back
+> calling print
+front --> Lester --> Jessamine --> Kenneth --> Flavia --> Axel --> Tiger --> Craig --> Cade --> Brian --> Fletcher --> Rylee --> Iona --> Jonas --> Basia --> Cameron --> Elijah --> Macy --> back
+> calling peek
+front: Lester
+> calling deq
+dequeued Lester
+> calling isEmpty
+queue is not empty
+> calling peek
+front: Jessamine
+> calling isEmpty
+queue is not empty
+> calling deq
+dequeued Jessamine
+> calling enq
+> calling size
+size: 16
+> calling enq
+> calling enq
+> calling isEmpty
+queue is not empty
+> calling peek
+front: Kenneth
+> calling deq
+dequeued Kenneth
+> calling peek
+front: Flavia
+> calling enq
+> calling isEmpty
+queue is not empty
+> calling isEmpty
+queue is not empty
+> calling isEmpty
+queue is not empty
+> calling size
+size: 18
+> calling print
+front --> Flavia --> Axel --> Tiger --> Craig --> Cade --> Brian --> Fletcher --> Rylee --> Iona --> Jonas --> Basia --> Cameron --> Elijah --> Macy --> Jerry --> Richard --> Phoebe --> Richard --> back
+> calling deq
+dequeued Flavia
+> calling deq
+dequeued Axel
+> calling deq
+dequeued Tiger
+> calling size
+size: 15
+> calling peek
+front: Craig
+> calling isEmpty
+queue is not empty
+> calling deq
+dequeued Craig
+> calling size
+size: 14
+> calling enq
+> calling print
+front --> Cade --> Brian --> Fletcher --> Rylee --> Iona --> Jonas --> Basia --> Cameron --> Elijah --> Macy --> Jerry --> Richard --> Phoebe --> Richard --> Aubrey --> back
+> calling enq
+> calling deq
+dequeued Cade
+> calling enq
+> calling isEmpty
+queue is not empty
+> calling peek
+front: Brian
+> calling enq
+> calling print
+front --> Brian --> Fletcher --> Rylee --> Iona --> Jonas --> Basia --> Cameron --> Elijah --> Macy --> Jerry --> Richard --> Phoebe --> Richard --> Aubrey --> Quyn --> Raymond --> Ayanna --> back
+> calling peek
+front: Brian
+> calling isEmpty
+queue is not empty
+> calling deq
+dequeued Brian
+> calling isEmpty
+queue is not empty
+> calling size
+size: 16
+> calling isEmpty
+queue is not empty
+> calling print
+front --> Fletcher --> Rylee --> Iona --> Jonas --> Basia --> Cameron --> Elijah --> Macy --> Jerry --> Richard --> Phoebe --> Richard --> Aubrey --> Quyn --> Raymond --> Ayanna --> back
+> calling isEmpty
+queue is not empty
+> calling print
+front --> Fletcher --> Rylee --> Iona --> Jonas --> Basia --> Cameron --> Elijah --> Macy --> Jerry --> Richard --> Phoebe --> Richard --> Aubrey --> Quyn --> Raymond --> Ayanna --> back
+> calling peek
+front: Fletcher
+> calling deq
+dequeued Fletcher
+> calling isEmpty
+queue is not empty
+> calling peek
+front: Rylee
+> calling isEmpty
+queue is not empty
+> calling enq
+> calling enq
+> calling isEmpty
+queue is not empty
+> calling isEmpty
+queue is not empty
+> calling deq
+dequeued Rylee
+> calling size
+size: 16
+> calling deq
+dequeued Iona
+> calling print
+front --> Jonas --> Basia --> Cameron --> Elijah --> Macy --> Jerry --> Richard --> Phoebe --> Richard --> Aubrey --> Quyn --> Raymond --> Ayanna --> Joy --> Kenneth --> back
+> calling peek
+front: Jonas
+> calling print
+front --> Jonas --> Basia --> Cameron --> Elijah --> Macy --> Jerry --> Richard --> Phoebe --> Richard --> Aubrey --> Quyn --> Raymond --> Ayanna --> Joy --> Kenneth --> back
+> calling enq
+> calling isEmpty
+queue is not empty
+> calling print
+front --> Jonas --> Basia --> Cameron --> Elijah --> Macy --> Jerry --> Richard --> Phoebe --> Richard --> Aubrey --> Quyn --> Raymond --> Ayanna --> Joy --> Kenneth --> Kim --> back
+> calling enq
+> calling enq
+> calling deq
+dequeued Jonas
+> calling print
+front --> Basia --> Cameron --> Elijah --> Macy --> Jerry --> Richard --> Phoebe --> Richard --> Aubrey --> Quyn --> Raymond --> Ayanna --> Joy --> Kenneth --> Kim --> Mariam --> Brian --> back
+> calling deq
+dequeued Basia
+> calling enq
+> calling print
+front --> Cameron --> Elijah --> Macy --> Jerry --> Richard --> Phoebe --> Richard --> Aubrey --> Quyn --> Raymond --> Ayanna --> Joy --> Kenneth --> Kim --> Mariam --> Brian --> Dylan --> back
+> calling enq
+> calling isEmpty
+queue is not empty
+> calling enq
+> calling deq
+dequeued Cameron
+> calling deq
+dequeued Elijah
+> calling enq
+> calling size
+size: 18
+> calling peek
+front: Macy
+> calling deq
+dequeued Macy
+> calling enq
+> calling peek
+front: Jerry
+> calling print
+front --> Jerry --> Richard --> Phoebe --> Richard --> Aubrey --> Quyn --> Raymond --> Ayanna --> Joy --> Kenneth --> Kim --> Mariam --> Brian --> Dylan --> Ivory --> Stacey --> Jasper --> Hope --> back
+> calling print
+front --> Jerry --> Richard --> Phoebe --> Richard --> Aubrey --> Quyn --> Raymond --> Ayanna --> Joy --> Kenneth --> Kim --> Mariam --> Brian --> Dylan --> Ivory --> Stacey --> Jasper --> Hope --> back
+> calling peek
+front: Jerry
+> calling enq
+> calling deq
+dequeued Jerry
+> calling size
+size: 18
+> calling print
+front --> Richard --> Phoebe --> Richard --> Aubrey --> Quyn --> Raymond --> Ayanna --> Joy --> Kenneth --> Kim --> Mariam --> Brian --> Dylan --> Ivory --> Stacey --> Jasper --> Hope --> Phoebe --> back
+> calling size
+size: 18
+> calling isEmpty
+queue is not empty
+> calling enq
+> calling deq
+dequeued Richard
+> calling isEmpty
+queue is not empty
+> calling enq
+> calling enq
+> calling enq
+> calling print
+front --> Phoebe --> Richard --> Aubrey --> Quyn --> Raymond --> Ayanna --> Joy --> Kenneth --> Kim --> Mariam --> Brian --> Dylan --> Ivory --> Stacey --> Jasper --> Hope --> Phoebe --> Alexa --> Finn --> Germane --> Selma --> back
+> calling size
+size: 21
+> calling size
+size: 21
+> calling enq
+> calling deq
+dequeued Phoebe
+> calling deq
+dequeued Richard
+> calling size
+size: 20
+> calling isEmpty
+queue is not empty
+> calling deq
+dequeued Aubrey
+> calling size
+size: 19
+> calling peek
+front: Quyn
+> calling print
+front --> Quyn --> Raymond --> Ayanna --> Joy --> Kenneth --> Kim --> Mariam --> Brian --> Dylan --> Ivory --> Stacey --> Jasper --> Hope --> Phoebe --> Alexa --> Finn --> Germane --> Selma --> Darrel --> back
+> calling enq
+> calling peek
+front: Quyn
+> calling deq
+dequeued Quyn
+> calling deq
+dequeued Raymond
+> calling print
+front --> Ayanna --> Joy --> Kenneth --> Kim --> Mariam --> Brian --> Dylan --> Ivory --> Stacey --> Jasper --> Hope --> Phoebe --> Alexa --> Finn --> Germane --> Selma --> Darrel --> Jenette --> back
+> calling peek
+front: Ayanna
+> calling size
+size: 18
+> calling enq
+> calling peek
+front: Ayanna
+> calling print
+front --> Ayanna --> Joy --> Kenneth --> Kim --> Mariam --> Brian --> Dylan --> Ivory --> Stacey --> Jasper --> Hope --> Phoebe --> Alexa --> Finn --> Germane --> Selma --> Darrel --> Jenette --> Phyllis --> back
+> calling peek
+front: Ayanna
+> calling size
+size: 19
+> calling deq
+dequeued Ayanna
+> calling peek
+front: Joy
+> calling size
+size: 18
+> calling enq
+> calling enq
+> calling enq
+> calling isEmpty
+queue is not empty
+> calling size
+size: 21
+> calling enq
+> calling size
+size: 22
+> calling enq
+> calling isEmpty
+queue is not empty
+> calling deq
+dequeued Joy
+> calling enq
+> calling enq
+> calling deq
+dequeued Kenneth
+> calling isEmpty
+queue is not empty
+> calling peek
+front: Kim
+> calling deq
+dequeued Kim
+> calling deq
+dequeued Mariam
+> calling enq
+> calling enq
+> calling size
+size: 23
+> calling peek
+front: Brian
+> calling isEmpty
+queue is not empty
+> calling deq
+dequeued Brian
+> calling isEmpty
+queue is not empty
+> calling isEmpty
+queue is not empty
+> calling deq
+dequeued Dylan
+> calling size
+size: 21
+> calling isEmpty
+queue is not empty
+> calling size
+size: 21
+> calling enq
+> calling print
+front --> Ivory --> Stacey --> Jasper --> Hope --> Phoebe --> Alexa --> Finn --> Germane --> Selma --> Darrel --> Jenette --> Phyllis --> Joy --> Cain --> Jonas --> Finn --> Lance --> Cain --> Hiram --> Beatrice --> Uriah --> Uriah --> back
+> calling size
+size: 22
+> calling peek
+front: Ivory
+> calling enq
+> calling deq
+dequeued Ivory
+> calling enq
+> calling deq
+dequeued Stacey
+> calling deq
+dequeued Jasper
+> calling deq
+dequeued Hope
+> calling isEmpty
+queue is not empty
+> calling enq
+> calling print
+front --> Phoebe --> Alexa --> Finn --> Germane --> Selma --> Darrel --> Jenette --> Phyllis --> Joy --> Cain --> Jonas --> Finn --> Lance --> Cain --> Hiram --> Beatrice --> Uriah --> Uriah --> Murphy --> Sawyer --> Vance --> back
+> calling enq
+> calling peek
+front: Phoebe
+> calling isEmpty
+queue is not empty
+> calling deq
+dequeued Phoebe
+> calling print
+front --> Alexa --> Finn --> Germane --> Selma --> Darrel --> Jenette --> Phyllis --> Joy --> Cain --> Jonas --> Finn --> Lance --> Cain --> Hiram --> Beatrice --> Uriah --> Uriah --> Murphy --> Sawyer --> Vance --> Amery --> back
+> calling isEmpty
+queue is not empty
+> calling deq
+dequeued Alexa
+> calling enq
+> calling deq
+dequeued Finn
+> calling enq
+> calling print
+front --> Germane --> Selma --> Darrel --> Jenette --> Phyllis --> Joy --> Cain --> Jonas --> Finn --> Lance --> Cain --> Hiram --> Beatrice --> Uriah --> Uriah --> Murphy --> Sawyer --> Vance --> Amery --> Nolan --> Hasad --> back
+> calling peek
+front: Germane
+> calling peek
+front: Germane
+> calling print
+front --> Germane --> Selma --> Darrel --> Jenette --> Phyllis --> Joy --> Cain --> Jonas --> Finn --> Lance --> Cain --> Hiram --> Beatrice --> Uriah --> Uriah --> Murphy --> Sawyer --> Vance --> Amery --> Nolan --> Hasad --> back
+> calling deq
+dequeued Germane
+> calling peek
+front: Selma
+> calling isEmpty
+queue is not empty
+> calling peek
+front: Selma
+> calling peek
+front: Selma
+> calling print
+front --> Selma --> Darrel --> Jenette --> Phyllis --> Joy --> Cain --> Jonas --> Finn --> Lance --> Cain --> Hiram --> Beatrice --> Uriah --> Uriah --> Murphy --> Sawyer --> Vance --> Amery --> Nolan --> Hasad --> back
+> calling print
+front --> Selma --> Darrel --> Jenette --> Phyllis --> Joy --> Cain --> Jonas --> Finn --> Lance --> Cain --> Hiram --> Beatrice --> Uriah --> Uriah --> Murphy --> Sawyer --> Vance --> Amery --> Nolan --> Hasad --> back
+> calling deq
+dequeued Selma
+> calling print
+front --> Darrel --> Jenette --> Phyllis --> Joy --> Cain --> Jonas --> Finn --> Lance --> Cain --> Hiram --> Beatrice --> Uriah --> Uriah --> Murphy --> Sawyer --> Vance --> Amery --> Nolan --> Hasad --> back
+> calling enq
+> calling isEmpty
+queue is not empty
+> calling peek
+front: Darrel
+> calling deq
+dequeued Darrel
+> calling enq
+> calling size
+size: 20
+> calling enq
+> calling peek
+front: Jenette
+> calling isEmpty
+queue is not empty
+> calling print
+front --> Jenette --> Phyllis --> Joy --> Cain --> Jonas --> Finn --> Lance --> Cain --> Hiram --> Beatrice --> Uriah --> Uriah --> Murphy --> Sawyer --> Vance --> Amery --> Nolan --> Hasad --> Jasper --> Iola --> Cody --> back
+> calling print
+front --> Jenette --> Phyllis --> Joy --> Cain --> Jonas --> Finn --> Lance --> Cain --> Hiram --> Beatrice --> Uriah --> Uriah --> Murphy --> Sawyer --> Vance --> Amery --> Nolan --> Hasad --> Jasper --> Iola --> Cody --> back
+> calling print
+front --> Jenette --> Phyllis --> Joy --> Cain --> Jonas --> Finn --> Lance --> Cain --> Hiram --> Beatrice --> Uriah --> Uriah --> Murphy --> Sawyer --> Vance --> Amery --> Nolan --> Hasad --> Jasper --> Iola --> Cody --> back
+> calling peek
+front: Jenette
+> calling deq
+dequeued Jenette
+> calling print
+front --> Phyllis --> Joy --> Cain --> Jonas --> Finn --> Lance --> Cain --> Hiram --> Beatrice --> Uriah --> Uriah --> Murphy --> Sawyer --> Vance --> Amery --> Nolan --> Hasad --> Jasper --> Iola --> Cody --> back
+> calling enq
+> calling deq
+dequeued Phyllis
+> calling peek
+front: Joy
+> calling isEmpty
+queue is not empty
+> calling isEmpty
+queue is not empty
+> calling isEmpty
+queue is not empty
+> calling isEmpty
+queue is not empty
+> calling isEmpty
+queue is not empty
+> calling deq
+dequeued Joy
+> calling isEmpty
+queue is not empty
+> calling size
+size: 19
+> calling isEmpty
+queue is not empty
+> calling print
+front --> Cain --> Jonas --> Finn --> Lance --> Cain --> Hiram --> Beatrice --> Uriah --> Uriah --> Murphy --> Sawyer --> Vance --> Amery --> Nolan --> Hasad --> Jasper --> Iola --> Cody --> Odysseus --> back
+> calling size
+size: 19
+> calling size
+size: 19
+> calling isEmpty
+queue is not empty
+> calling print
+front --> Cain --> Jonas --> Finn --> Lance --> Cain --> Hiram --> Beatrice --> Uriah --> Uriah --> Murphy --> Sawyer --> Vance --> Amery --> Nolan --> Hasad --> Jasper --> Iola --> Cody --> Odysseus --> back
+> calling isEmpty
+queue is not empty
+> calling print
+front --> Cain --> Jonas --> Finn --> Lance --> Cain --> Hiram --> Beatrice --> Uriah --> Uriah --> Murphy --> Sawyer --> Vance --> Amery --> Nolan --> Hasad --> Jasper --> Iola --> Cody --> Odysseus --> back
+> calling size
+size: 19
+> calling deq
+dequeued Cain
+> calling deq
+dequeued Jonas
+> calling enq
+> calling isEmpty
+queue is not empty
+> calling print
+front --> Finn --> Lance --> Cain --> Hiram --> Beatrice --> Uriah --> Uriah --> Murphy --> Sawyer --> Vance --> Amery --> Nolan --> Hasad --> Jasper --> Iola --> Cody --> Odysseus --> Wing --> back
+> calling isEmpty
+queue is not empty
+> calling print
+front --> Finn --> Lance --> Cain --> Hiram --> Beatrice --> Uriah --> Uriah --> Murphy --> Sawyer --> Vance --> Amery --> Nolan --> Hasad --> Jasper --> Iola --> Cody --> Odysseus --> Wing --> back
+> calling print
+front --> Finn --> Lance --> Cain --> Hiram --> Beatrice --> Uriah --> Uriah --> Murphy --> Sawyer --> Vance --> Amery --> Nolan --> Hasad --> Jasper --> Iola --> Cody --> Odysseus --> Wing --> back
+> calling size
+size: 18
+> calling size
+size: 18
+> calling peek
+front: Finn
+> calling peek
+front: Finn
+> calling peek
+front: Finn
+> calling deq
+dequeued Finn
+> calling isEmpty
+queue is not empty
+> calling isEmpty
+queue is not empty
+> calling size
+size: 17
+> calling isEmpty
+queue is not empty
+> calling deq
+dequeued Lance
+> calling size
+size: 16
+> calling print
+front --> Cain --> Hiram --> Beatrice --> Uriah --> Uriah --> Murphy --> Sawyer --> Vance --> Amery --> Nolan --> Hasad --> Jasper --> Iola --> Cody --> Odysseus --> Wing --> back
+> calling enq
+> calling enq
+> calling size
+size: 18
+> calling enq
+> calling deq
+dequeued Cain
+> calling isEmpty
+queue is not empty
+> calling deq
+dequeued Hiram
+> calling size
+size: 17
+> calling isEmpty
+queue is not empty
+> calling enq
+> calling enq
+> calling peek
+front: Beatrice
+> calling isEmpty
+queue is not empty
+> calling enq
+> calling isEmpty
+queue is not empty
+> calling enq
+> calling size
+size: 21
+> calling enq
+> calling deq
+dequeued Beatrice
+> calling peek
+front: Uriah
+> calling peek
+front: Uriah
+> calling isEmpty
+queue is not empty
+> calling isEmpty
+queue is not empty
+> calling peek
+front: Uriah
+> calling isEmpty
+queue is not empty
+> calling enq
+> calling isEmpty
+queue is not empty
+> calling peek
+front: Uriah
+> calling isEmpty
+queue is not empty
+> calling enq
+> calling enq
+> calling enq
+> calling peek
+front: Uriah
+> calling deq
+dequeued Uriah
+> calling peek
+front: Uriah
+> calling peek
+front: Uriah
+> calling size
+size: 24
+> calling enq
+> calling isEmpty
+queue is not empty
+> calling enq
+> calling size
+size: 26
+> calling size
+size: 26
+> calling peek
+front: Uriah
+> calling print
+front --> Uriah --> Murphy --> Sawyer --> Vance --> Amery --> Nolan --> Hasad --> Jasper --> Iola --> Cody --> Odysseus --> Wing --> Caryn --> Rachel --> Hiram --> Benjamin --> Mufutau --> Paula --> Odysseus --> Breanna --> Amos --> Eliana --> Donovan --> Lydia --> Pandora --> Ginger --> back
+> calling peek
+front: Uriah
+> calling isEmpty
+queue is not empty
+> calling print
+front --> Uriah --> Murphy --> Sawyer --> Vance --> Amery --> Nolan --> Hasad --> Jasper --> Iola --> Cody --> Odysseus --> Wing --> Caryn --> Rachel --> Hiram --> Benjamin --> Mufutau --> Paula --> Odysseus --> Breanna --> Amos --> Eliana --> Donovan --> Lydia --> Pandora --> Ginger --> back
+> calling size
+size: 26
+> calling size
+size: 26
+> calling deq
+dequeued Uriah
+> calling enq
+> calling isEmpty
+queue is not empty
+> calling deq
+dequeued Murphy
+> calling isEmpty
+queue is not empty
+> calling peek
+front: Sawyer
+> calling print
+front --> Sawyer --> Vance --> Amery --> Nolan --> Hasad --> Jasper --> Iola --> Cody --> Odysseus --> Wing --> Caryn --> Rachel --> Hiram --> Benjamin --> Mufutau --> Paula --> Odysseus --> Breanna --> Amos --> Eliana --> Donovan --> Lydia --> Pandora --> Ginger --> Gray --> back
+> calling size
+size: 25
+> calling size
+size: 25
+> calling deq
+dequeued Sawyer
+> calling print
+front --> Vance --> Amery --> Nolan --> Hasad --> Jasper --> Iola --> Cody --> Odysseus --> Wing --> Caryn --> Rachel --> Hiram --> Benjamin --> Mufutau --> Paula --> Odysseus --> Breanna --> Amos --> Eliana --> Donovan --> Lydia --> Pandora --> Ginger --> Gray --> back
+> calling print
+front --> Vance --> Amery --> Nolan --> Hasad --> Jasper --> Iola --> Cody --> Odysseus --> Wing --> Caryn --> Rachel --> Hiram --> Benjamin --> Mufutau --> Paula --> Odysseus --> Breanna --> Amos --> Eliana --> Donovan --> Lydia --> Pandora --> Ginger --> Gray --> back
+> calling peek
+front: Vance
+> calling size
+size: 24
+> calling print
+front --> Vance --> Amery --> Nolan --> Hasad --> Jasper --> Iola --> Cody --> Odysseus --> Wing --> Caryn --> Rachel --> Hiram --> Benjamin --> Mufutau --> Paula --> Odysseus --> Breanna --> Amos --> Eliana --> Donovan --> Lydia --> Pandora --> Ginger --> Gray --> back
+> calling isEmpty
+queue is not empty
+> calling print
+front --> Vance --> Amery --> Nolan --> Hasad --> Jasper --> Iola --> Cody --> Odysseus --> Wing --> Caryn --> Rachel --> Hiram --> Benjamin --> Mufutau --> Paula --> Odysseus --> Breanna --> Amos --> Eliana --> Donovan --> Lydia --> Pandora --> Ginger --> Gray --> back
+> calling isEmpty
+queue is not empty
+> calling peek
+front: Vance
+> calling deq
+dequeued Vance
+> calling peek
+front: Amery
+> calling isEmpty
+queue is not empty
+> calling deq
+dequeued Amery
+> calling print
+front --> Nolan --> Hasad --> Jasper --> Iola --> Cody --> Odysseus --> Wing --> Caryn --> Rachel --> Hiram --> Benjamin --> Mufutau --> Paula --> Odysseus --> Breanna --> Amos --> Eliana --> Donovan --> Lydia --> Pandora --> Ginger --> Gray --> back
+> calling print
+front --> Nolan --> Hasad --> Jasper --> Iola --> Cody --> Odysseus --> Wing --> Caryn --> Rachel --> Hiram --> Benjamin --> Mufutau --> Paula --> Odysseus --> Breanna --> Amos --> Eliana --> Donovan --> Lydia --> Pandora --> Ginger --> Gray --> back
+> calling peek
+front: Nolan
+> calling deq
+dequeued Nolan
+> calling print
+front --> Hasad --> Jasper --> Iola --> Cody --> Odysseus --> Wing --> Caryn --> Rachel --> Hiram --> Benjamin --> Mufutau --> Paula --> Odysseus --> Breanna --> Amos --> Eliana --> Donovan --> Lydia --> Pandora --> Ginger --> Gray --> back
+> calling print
+front --> Hasad --> Jasper --> Iola --> Cody --> Odysseus --> Wing --> Caryn --> Rachel --> Hiram --> Benjamin --> Mufutau --> Paula --> Odysseus --> Breanna --> Amos --> Eliana --> Donovan --> Lydia --> Pandora --> Ginger --> Gray --> back
+> calling deq
+dequeued Hasad
+> calling print
+front --> Jasper --> Iola --> Cody --> Odysseus --> Wing --> Caryn --> Rachel --> Hiram --> Benjamin --> Mufutau --> Paula --> Odysseus --> Breanna --> Amos --> Eliana --> Donovan --> Lydia --> Pandora --> Ginger --> Gray --> back
+> calling isEmpty
+queue is not empty
+> calling peek
+front: Jasper
+> calling peek
+front: Jasper
+> calling enq
+> calling enq
+> calling print
+front --> Jasper --> Iola --> Cody --> Odysseus --> Wing --> Caryn --> Rachel --> Hiram --> Benjamin --> Mufutau --> Paula --> Odysseus --> Breanna --> Amos --> Eliana --> Donovan --> Lydia --> Pandora --> Ginger --> Gray --> Sydney --> Germaine --> back
+> calling deq
+dequeued Jasper
+> calling print
+front --> Iola --> Cody --> Odysseus --> Wing --> Caryn --> Rachel --> Hiram --> Benjamin --> Mufutau --> Paula --> Odysseus --> Breanna --> Amos --> Eliana --> Donovan --> Lydia --> Pandora --> Ginger --> Gray --> Sydney --> Germaine --> back
+> calling enq
+> calling deq
+dequeued Iola
+> calling size
+size: 21
+> calling deq
+dequeued Cody
+> calling peek
+front: Odysseus
+> calling size
+size: 20
+> calling enq
+> calling isEmpty
+queue is not empty
+> calling isEmpty
+queue is not empty
+> calling size
+size: 21
+> calling print
+front --> Odysseus --> Wing --> Caryn --> Rachel --> Hiram --> Benjamin --> Mufutau --> Paula --> Odysseus --> Breanna --> Amos --> Eliana --> Donovan --> Lydia --> Pandora --> Ginger --> Gray --> Sydney --> Germaine --> Omar --> Palmer --> back
+> calling enq
+> calling print
+front --> Odysseus --> Wing --> Caryn --> Rachel --> Hiram --> Benjamin --> Mufutau --> Paula --> Odysseus --> Breanna --> Amos --> Eliana --> Donovan --> Lydia --> Pandora --> Ginger --> Gray --> Sydney --> Germaine --> Omar --> Palmer --> Clio --> back
+> calling isEmpty
+queue is not empty
+> calling enq
+> calling deq
+dequeued Odysseus
+> calling print
+front --> Wing --> Caryn --> Rachel --> Hiram --> Benjamin --> Mufutau --> Paula --> Odysseus --> Breanna --> Amos --> Eliana --> Donovan --> Lydia --> Pandora --> Ginger --> Gray --> Sydney --> Germaine --> Omar --> Palmer --> Clio --> Zena --> back
+> calling deq
+dequeued Wing
+> calling size
+size: 21
+> calling enq
+> calling enq
+> calling size
+size: 23
+> calling size
+size: 23
+> calling enq
+> calling peek
+front: Caryn
+> calling enq
+> calling enq
+> calling size
+size: 26
+> calling enq
+> calling print
+front --> Caryn --> Rachel --> Hiram --> Benjamin --> Mufutau --> Paula --> Odysseus --> Breanna --> Amos --> Eliana --> Donovan --> Lydia --> Pandora --> Ginger --> Gray --> Sydney --> Germaine --> Omar --> Palmer --> Clio --> Zena --> Yoko --> Jacob --> Germane --> Zorita --> Gil --> Kelly --> back
+> calling size
+size: 27
+> calling peek
+front: Caryn
+> calling enq
+> calling print
+front --> Caryn --> Rachel --> Hiram --> Benjamin --> Mufutau --> Paula --> Odysseus --> Breanna --> Amos --> Eliana --> Donovan --> Lydia --> Pandora --> Ginger --> Gray --> Sydney --> Germaine --> Omar --> Palmer --> Clio --> Zena --> Yoko --> Jacob --> Germane --> Zorita --> Gil --> Kelly --> Burke --> back
+> calling isEmpty
+queue is not empty
+> calling enq
+> calling enq
+> calling print
+front --> Caryn --> Rachel --> Hiram --> Benjamin --> Mufutau --> Paula --> Odysseus --> Breanna --> Amos --> Eliana --> Donovan --> Lydia --> Pandora --> Ginger --> Gray --> Sydney --> Germaine --> Omar --> Palmer --> Clio --> Zena --> Yoko --> Jacob --> Germane --> Zorita --> Gil --> Kelly --> Burke --> Ursa --> Hector --> back
+> calling enq
+> calling deq
+dequeued Caryn
+> calling deq
+dequeued Rachel
+> calling isEmpty
+queue is not empty
+> calling size
+size: 29
+> calling isEmpty
+queue is not empty
+> calling enq
+> calling enq
+> calling print
+front --> Hiram --> Benjamin --> Mufutau --> Paula --> Odysseus --> Breanna --> Amos --> Eliana --> Donovan --> Lydia --> Pandora --> Ginger --> Gray --> Sydney --> Germaine --> Omar --> Palmer --> Clio --> Zena --> Yoko --> Jacob --> Germane --> Zorita --> Gil --> Kelly --> Burke --> Ursa --> Hector --> Dai --> Lacy --> Rogan --> back
+> calling isEmpty
+queue is not empty
+> calling print
+front --> Hiram --> Benjamin --> Mufutau --> Paula --> Odysseus --> Breanna --> Amos --> Eliana --> Donovan --> Lydia --> Pandora --> Ginger --> Gray --> Sydney --> Germaine --> Omar --> Palmer --> Clio --> Zena --> Yoko --> Jacob --> Germane --> Zorita --> Gil --> Kelly --> Burke --> Ursa --> Hector --> Dai --> Lacy --> Rogan --> back
+> calling isEmpty
+queue is not empty
+> calling print
+front --> Hiram --> Benjamin --> Mufutau --> Paula --> Odysseus --> Breanna --> Amos --> Eliana --> Donovan --> Lydia --> Pandora --> Ginger --> Gray --> Sydney --> Germaine --> Omar --> Palmer --> Clio --> Zena --> Yoko --> Jacob --> Germane --> Zorita --> Gil --> Kelly --> Burke --> Ursa --> Hector --> Dai --> Lacy --> Rogan --> back
+> calling deq
+dequeued Hiram
+> calling deq
+dequeued Benjamin
+> calling isEmpty
+queue is not empty
+> calling size
+size: 29
+> calling print
+front --> Mufutau --> Paula --> Odysseus --> Breanna --> Amos --> Eliana --> Donovan --> Lydia --> Pandora --> Ginger --> Gray --> Sydney --> Germaine --> Omar --> Palmer --> Clio --> Zena --> Yoko --> Jacob --> Germane --> Zorita --> Gil --> Kelly --> Burke --> Ursa --> Hector --> Dai --> Lacy --> Rogan --> back
+> calling peek
+front: Mufutau
+> calling peek
+front: Mufutau
+> calling enq
+> calling size
+size: 30
+> calling size
+size: 30
+> calling deq
+dequeued Mufutau
+> calling isEmpty
+queue is not empty
+> calling print
+front --> Paula --> Odysseus --> Breanna --> Amos --> Eliana --> Donovan --> Lydia --> Pandora --> Ginger --> Gray --> Sydney --> Germaine --> Omar --> Palmer --> Clio --> Zena --> Yoko --> Jacob --> Germane --> Zorita --> Gil --> Kelly --> Burke --> Ursa --> Hector --> Dai --> Lacy --> Rogan --> Fletcher --> back
+> calling isEmpty
+queue is not empty
+> calling enq
+> calling print
+front --> Paula --> Odysseus --> Breanna --> Amos --> Eliana --> Donovan --> Lydia --> Pandora --> Ginger --> Gray --> Sydney --> Germaine --> Omar --> Palmer --> Clio --> Zena --> Yoko --> Jacob --> Germane --> Zorita --> Gil --> Kelly --> Burke --> Ursa --> Hector --> Dai --> Lacy --> Rogan --> Fletcher --> Summer --> back
+> calling print
+front --> Paula --> Odysseus --> Breanna --> Amos --> Eliana --> Donovan --> Lydia --> Pandora --> Ginger --> Gray --> Sydney --> Germaine --> Omar --> Palmer --> Clio --> Zena --> Yoko --> Jacob --> Germane --> Zorita --> Gil --> Kelly --> Burke --> Ursa --> Hector --> Dai --> Lacy --> Rogan --> Fletcher --> Summer --> back
+> calling isEmpty
+queue is not empty
+> calling peek
+front: Paula
+> calling isEmpty
+queue is not empty
+> calling size
+size: 30
+> calling isEmpty
+queue is not empty
+> calling isEmpty
+queue is not empty
+> calling peek
+front: Paula
+> calling size
+size: 30
+> calling print
+front --> Paula --> Odysseus --> Breanna --> Amos --> Eliana --> Donovan --> Lydia --> Pandora --> Ginger --> Gray --> Sydney --> Germaine --> Omar --> Palmer --> Clio --> Zena --> Yoko --> Jacob --> Germane --> Zorita --> Gil --> Kelly --> Burke --> Ursa --> Hector --> Dai --> Lacy --> Rogan --> Fletcher --> Summer --> back
+> calling isEmpty
+queue is not empty
+> calling deq
+dequeued Paula
+> calling print
+front --> Odysseus --> Breanna --> Amos --> Eliana --> Donovan --> Lydia --> Pandora --> Ginger --> Gray --> Sydney --> Germaine --> Omar --> Palmer --> Clio --> Zena --> Yoko --> Jacob --> Germane --> Zorita --> Gil --> Kelly --> Burke --> Ursa --> Hector --> Dai --> Lacy --> Rogan --> Fletcher --> Summer --> back
+> calling enq
+> calling print
+front --> Odysseus --> Breanna --> Amos --> Eliana --> Donovan --> Lydia --> Pandora --> Ginger --> Gray --> Sydney --> Germaine --> Omar --> Palmer --> Clio --> Zena --> Yoko --> Jacob --> Germane --> Zorita --> Gil --> Kelly --> Burke --> Ursa --> Hector --> Dai --> Lacy --> Rogan --> Fletcher --> Summer --> Melinda --> back
+> calling isEmpty
+queue is not empty
+> calling peek
+front: Odysseus
+> calling peek
+front: Odysseus
+> calling size
+size: 30
+> calling size
+size: 30
+> calling peek
+front: Odysseus
+> calling size
+size: 30
+> calling print
+front --> Odysseus --> Breanna --> Amos --> Eliana --> Donovan --> Lydia --> Pandora --> Ginger --> Gray --> Sydney --> Germaine --> Omar --> Palmer --> Clio --> Zena --> Yoko --> Jacob --> Germane --> Zorita --> Gil --> Kelly --> Burke --> Ursa --> Hector --> Dai --> Lacy --> Rogan --> Fletcher --> Summer --> Melinda --> back
+> calling peek
+front: Odysseus
+> calling size
+size: 30
+> calling isEmpty
+queue is not empty
+> calling size
+size: 30
+> calling deq
+dequeued Odysseus
+> calling isEmpty
+queue is not empty
+> calling isEmpty
+queue is not empty
+> calling peek
+front: Breanna
+> calling size
+size: 29
+> calling print
+front --> Breanna --> Amos --> Eliana --> Donovan --> Lydia --> Pandora --> Ginger --> Gray --> Sydney --> Germaine --> Omar --> Palmer --> Clio --> Zena --> Yoko --> Jacob --> Germane --> Zorita --> Gil --> Kelly --> Burke --> Ursa --> Hector --> Dai --> Lacy --> Rogan --> Fletcher --> Summer --> Melinda --> back
+> calling enq
+> calling isEmpty
+queue is not empty
+> calling size
+size: 30
+> calling size
+size: 30
+> calling size
+size: 30
+> calling enq
+> calling deq
+dequeued Breanna
+> calling isEmpty
+queue is not empty
+> calling peek
+front: Amos
+> calling enq
+> calling print
+front --> Amos --> Eliana --> Donovan --> Lydia --> Pandora --> Ginger --> Gray --> Sydney --> Germaine --> Omar --> Palmer --> Clio --> Zena --> Yoko --> Jacob --> Germane --> Zorita --> Gil --> Kelly --> Burke --> Ursa --> Hector --> Dai --> Lacy --> Rogan --> Fletcher --> Summer --> Melinda --> Russell --> Willa --> Jordan --> back
+> calling peek
+front: Amos
+> calling deq
+dequeued Amos
+> calling isEmpty
+queue is not empty
+> calling isEmpty
+queue is not empty
+> calling print
+front --> Eliana --> Donovan --> Lydia --> Pandora --> Ginger --> Gray --> Sydney --> Germaine --> Omar --> Palmer --> Clio --> Zena --> Yoko --> Jacob --> Germane --> Zorita --> Gil --> Kelly --> Burke --> Ursa --> Hector --> Dai --> Lacy --> Rogan --> Fletcher --> Summer --> Melinda --> Russell --> Willa --> Jordan --> back
+> calling peek
+front: Eliana
+> calling print
+front --> Eliana --> Donovan --> Lydia --> Pandora --> Ginger --> Gray --> Sydney --> Germaine --> Omar --> Palmer --> Clio --> Zena --> Yoko --> Jacob --> Germane --> Zorita --> Gil --> Kelly --> Burke --> Ursa --> Hector --> Dai --> Lacy --> Rogan --> Fletcher --> Summer --> Melinda --> Russell --> Willa --> Jordan --> back
+> calling enq
+> calling peek
+front: Eliana
+> calling isEmpty
+queue is not empty
+> calling print
+front --> Eliana --> Donovan --> Lydia --> Pandora --> Ginger --> Gray --> Sydney --> Germaine --> Omar --> Palmer --> Clio --> Zena --> Yoko --> Jacob --> Germane --> Zorita --> Gil --> Kelly --> Burke --> Ursa --> Hector --> Dai --> Lacy --> Rogan --> Fletcher --> Summer --> Melinda --> Russell --> Willa --> Jordan --> Curran --> back
+> calling peek
+front: Eliana
+> calling isEmpty
+queue is not empty
+> calling deq
+dequeued Eliana
+> calling print
+front --> Donovan --> Lydia --> Pandora --> Ginger --> Gray --> Sydney --> Germaine --> Omar --> Palmer --> Clio --> Zena --> Yoko --> Jacob --> Germane --> Zorita --> Gil --> Kelly --> Burke --> Ursa --> Hector --> Dai --> Lacy --> Rogan --> Fletcher --> Summer --> Melinda --> Russell --> Willa --> Jordan --> Curran --> back
+> calling enq
+> calling isEmpty
+queue is not empty
+> calling isEmpty
+queue is not empty
+> calling size
+size: 31
+> calling isEmpty
+queue is not empty
+> calling print
+front --> Donovan --> Lydia --> Pandora --> Ginger --> Gray --> Sydney --> Germaine --> Omar --> Palmer --> Clio --> Zena --> Yoko --> Jacob --> Germane --> Zorita --> Gil --> Kelly --> Burke --> Ursa --> Hector --> Dai --> Lacy --> Rogan --> Fletcher --> Summer --> Melinda --> Russell --> Willa --> Jordan --> Curran --> Jonas --> back
+> calling enq
+> calling print
+front --> Donovan --> Lydia --> Pandora --> Ginger --> Gray --> Sydney --> Germaine --> Omar --> Palmer --> Clio --> Zena --> Yoko --> Jacob --> Germane --> Zorita --> Gil --> Kelly --> Burke --> Ursa --> Hector --> Dai --> Lacy --> Rogan --> Fletcher --> Summer --> Melinda --> Russell --> Willa --> Jordan --> Curran --> Jonas --> Emerald --> back
+> calling size
+size: 32
+> calling peek
+front: Donovan
+> calling peek
+front: Donovan
+> calling print
+front --> Donovan --> Lydia --> Pandora --> Ginger --> Gray --> Sydney --> Germaine --> Omar --> Palmer --> Clio --> Zena --> Yoko --> Jacob --> Germane --> Zorita --> Gil --> Kelly --> Burke --> Ursa --> Hector --> Dai --> Lacy --> Rogan --> Fletcher --> Summer --> Melinda --> Russell --> Willa --> Jordan --> Curran --> Jonas --> Emerald --> back
+> calling enq
+> calling peek
+front: Donovan
+> calling peek
+front: Donovan
+> calling deq
+dequeued Donovan
+> calling peek
+front: Lydia
+> calling enq
+> calling peek
+front: Lydia
+> calling size
+size: 33
+> calling peek
+front: Lydia
+> calling isEmpty
+queue is not empty
+> calling print
+front --> Lydia --> Pandora --> Ginger --> Gray --> Sydney --> Germaine --> Omar --> Palmer --> Clio --> Zena --> Yoko --> Jacob --> Germane --> Zorita --> Gil --> Kelly --> Burke --> Ursa --> Hector --> Dai --> Lacy --> Rogan --> Fletcher --> Summer --> Melinda --> Russell --> Willa --> Jordan --> Curran --> Jonas --> Emerald --> Zena --> Ethan --> back
+> calling peek
+front: Lydia
+> calling size
+size: 33
+> calling deq
+dequeued Lydia
+> calling peek
+front: Pandora
+> calling isEmpty
+queue is not empty
+> calling enq
+> calling size
+size: 33
+> calling isEmpty
+queue is not empty
+> calling deq
+dequeued Pandora
+> calling deq
+dequeued Ginger
+> calling print
+front --> Gray --> Sydney --> Germaine --> Omar --> Palmer --> Clio --> Zena --> Yoko --> Jacob --> Germane --> Zorita --> Gil --> Kelly --> Burke --> Ursa --> Hector --> Dai --> Lacy --> Rogan --> Fletcher --> Summer --> Melinda --> Russell --> Willa --> Jordan --> Curran --> Jonas --> Emerald --> Zena --> Ethan --> Cody --> back
+> calling isEmpty
+queue is not empty
+> calling peek
+front: Gray
+> calling print
+front --> Gray --> Sydney --> Germaine --> Omar --> Palmer --> Clio --> Zena --> Yoko --> Jacob --> Germane --> Zorita --> Gil --> Kelly --> Burke --> Ursa --> Hector --> Dai --> Lacy --> Rogan --> Fletcher --> Summer --> Melinda --> Russell --> Willa --> Jordan --> Curran --> Jonas --> Emerald --> Zena --> Ethan --> Cody --> back
+> calling isEmpty
+queue is not empty
+> calling deq
+dequeued Gray
+> calling size
+size: 30
+> calling isEmpty
+queue is not empty
+> calling peek
+front: Sydney
+> calling isEmpty
+queue is not empty
+> calling size
+size: 30
+> calling peek
+front: Sydney
+> calling deq
+dequeued Sydney
+> calling print
+front --> Germaine --> Omar --> Palmer --> Clio --> Zena --> Yoko --> Jacob --> Germane --> Zorita --> Gil --> Kelly --> Burke --> Ursa --> Hector --> Dai --> Lacy --> Rogan --> Fletcher --> Summer --> Melinda --> Russell --> Willa --> Jordan --> Curran --> Jonas --> Emerald --> Zena --> Ethan --> Cody --> back
+> calling print
+front --> Germaine --> Omar --> Palmer --> Clio --> Zena --> Yoko --> Jacob --> Germane --> Zorita --> Gil --> Kelly --> Burke --> Ursa --> Hector --> Dai --> Lacy --> Rogan --> Fletcher --> Summer --> Melinda --> Russell --> Willa --> Jordan --> Curran --> Jonas --> Emerald --> Zena --> Ethan --> Cody --> back
+> calling size
+size: 29
+> calling deq
+dequeued Germaine
+> calling deq
+dequeued Omar
+> calling enq
+> calling isEmpty
+queue is not empty
+> calling isEmpty
+queue is not empty
+> calling size
+size: 28
+> calling enq
+> calling enq
+> calling deq
+dequeued Palmer
+> calling size
+size: 29
+> calling isEmpty
+queue is not empty
+> calling print
+front --> Clio --> Zena --> Yoko --> Jacob --> Germane --> Zorita --> Gil --> Kelly --> Burke --> Ursa --> Hector --> Dai --> Lacy --> Rogan --> Fletcher --> Summer --> Melinda --> Russell --> Willa --> Jordan --> Curran --> Jonas --> Emerald --> Zena --> Ethan --> Cody --> Hope --> Jasmine --> Orla --> back
+> calling peek
+front: Clio
+> calling enq
+> calling isEmpty
+queue is not empty
+> calling enq
+> calling enq
+> calling peek
+front: Clio
+> calling peek
+front: Clio
+> calling print
+front --> Clio --> Zena --> Yoko --> Jacob --> Germane --> Zorita --> Gil --> Kelly --> Burke --> Ursa --> Hector --> Dai --> Lacy --> Rogan --> Fletcher --> Summer --> Melinda --> Russell --> Willa --> Jordan --> Curran --> Jonas --> Emerald --> Zena --> Ethan --> Cody --> Hope --> Jasmine --> Orla --> Melyssa --> Tana --> Phoebe --> back
+> calling deq
+dequeued Clio
+> calling size
+size: 31
+> calling print
+front --> Zena --> Yoko --> Jacob --> Germane --> Zorita --> Gil --> Kelly --> Burke --> Ursa --> Hector --> Dai --> Lacy --> Rogan --> Fletcher --> Summer --> Melinda --> Russell --> Willa --> Jordan --> Curran --> Jonas --> Emerald --> Zena --> Ethan --> Cody --> Hope --> Jasmine --> Orla --> Melyssa --> Tana --> Phoebe --> back
+> calling size
+size: 31
+> calling size
+size: 31
+> calling size
+size: 31
+> calling print
+front --> Zena --> Yoko --> Jacob --> Germane --> Zorita --> Gil --> Kelly --> Burke --> Ursa --> Hector --> Dai --> Lacy --> Rogan --> Fletcher --> Summer --> Melinda --> Russell --> Willa --> Jordan --> Curran --> Jonas --> Emerald --> Zena --> Ethan --> Cody --> Hope --> Jasmine --> Orla --> Melyssa --> Tana --> Phoebe --> back
+> calling size
+size: 31
+> calling print
+front --> Zena --> Yoko --> Jacob --> Germane --> Zorita --> Gil --> Kelly --> Burke --> Ursa --> Hector --> Dai --> Lacy --> Rogan --> Fletcher --> Summer --> Melinda --> Russell --> Willa --> Jordan --> Curran --> Jonas --> Emerald --> Zena --> Ethan --> Cody --> Hope --> Jasmine --> Orla --> Melyssa --> Tana --> Phoebe --> back
+> calling size
+size: 31
+> calling peek
+front: Zena
+> calling enq
+> calling size
+size: 32
+> calling isEmpty
+queue is not empty
+> calling print
+front --> Zena --> Yoko --> Jacob --> Germane --> Zorita --> Gil --> Kelly --> Burke --> Ursa --> Hector --> Dai --> Lacy --> Rogan --> Fletcher --> Summer --> Melinda --> Russell --> Willa --> Jordan --> Curran --> Jonas --> Emerald --> Zena --> Ethan --> Cody --> Hope --> Jasmine --> Orla --> Melyssa --> Tana --> Phoebe --> Justine --> back
+> calling peek
+front: Zena
+> calling enq
+> calling deq
+dequeued Zena
+> calling isEmpty
+queue is not empty
+> calling isEmpty
+queue is not empty
+> calling print
+front --> Yoko --> Jacob --> Germane --> Zorita --> Gil --> Kelly --> Burke --> Ursa --> Hector --> Dai --> Lacy --> Rogan --> Fletcher --> Summer --> Melinda --> Russell --> Willa --> Jordan --> Curran --> Jonas --> Emerald --> Zena --> Ethan --> Cody --> Hope --> Jasmine --> Orla --> Melyssa --> Tana --> Phoebe --> Justine --> Cade --> back
+> calling size
+size: 32
+> calling size
+size: 32
+> calling enq
+> calling peek
+front: Yoko
+> calling print
+front --> Yoko --> Jacob --> Germane --> Zorita --> Gil --> Kelly --> Burke --> Ursa --> Hector --> Dai --> Lacy --> Rogan --> Fletcher --> Summer --> Melinda --> Russell --> Willa --> Jordan --> Curran --> Jonas --> Emerald --> Zena --> Ethan --> Cody --> Hope --> Jasmine --> Orla --> Melyssa --> Tana --> Phoebe --> Justine --> Cade --> Dacey --> back
+> calling peek
+front: Yoko
+> calling print
+front --> Yoko --> Jacob --> Germane --> Zorita --> Gil --> Kelly --> Burke --> Ursa --> Hector --> Dai --> Lacy --> Rogan --> Fletcher --> Summer --> Melinda --> Russell --> Willa --> Jordan --> Curran --> Jonas --> Emerald --> Zena --> Ethan --> Cody --> Hope --> Jasmine --> Orla --> Melyssa --> Tana --> Phoebe --> Justine --> Cade --> Dacey --> back
+> calling print
+front --> Yoko --> Jacob --> Germane --> Zorita --> Gil --> Kelly --> Burke --> Ursa --> Hector --> Dai --> Lacy --> Rogan --> Fletcher --> Summer --> Melinda --> Russell --> Willa --> Jordan --> Curran --> Jonas --> Emerald --> Zena --> Ethan --> Cody --> Hope --> Jasmine --> Orla --> Melyssa --> Tana --> Phoebe --> Justine --> Cade --> Dacey --> back
+> calling enq
+> calling peek
+front: Yoko
+> calling print
+front --> Yoko --> Jacob --> Germane --> Zorita --> Gil --> Kelly --> Burke --> Ursa --> Hector --> Dai --> Lacy --> Rogan --> Fletcher --> Summer --> Melinda --> Russell --> Willa --> Jordan --> Curran --> Jonas --> Emerald --> Zena --> Ethan --> Cody --> Hope --> Jasmine --> Orla --> Melyssa --> Tana --> Phoebe --> Justine --> Cade --> Dacey --> Jared --> back
+> calling print
+front --> Yoko --> Jacob --> Germane --> Zorita --> Gil --> Kelly --> Burke --> Ursa --> Hector --> Dai --> Lacy --> Rogan --> Fletcher --> Summer --> Melinda --> Russell --> Willa --> Jordan --> Curran --> Jonas --> Emerald --> Zena --> Ethan --> Cody --> Hope --> Jasmine --> Orla --> Melyssa --> Tana --> Phoebe --> Justine --> Cade --> Dacey --> Jared --> back
+> calling isEmpty
+queue is not empty
+> calling size
+size: 34
+> calling peek
+front: Yoko
+> calling peek
+front: Yoko
+> calling enq
+> calling print
+front --> Yoko --> Jacob --> Germane --> Zorita --> Gil --> Kelly --> Burke --> Ursa --> Hector --> Dai --> Lacy --> Rogan --> Fletcher --> Summer --> Melinda --> Russell --> Willa --> Jordan --> Curran --> Jonas --> Emerald --> Zena --> Ethan --> Cody --> Hope --> Jasmine --> Orla --> Melyssa --> Tana --> Phoebe --> Justine --> Cade --> Dacey --> Jared --> Avye --> back
+> calling print
+front --> Yoko --> Jacob --> Germane --> Zorita --> Gil --> Kelly --> Burke --> Ursa --> Hector --> Dai --> Lacy --> Rogan --> Fletcher --> Summer --> Melinda --> Russell --> Willa --> Jordan --> Curran --> Jonas --> Emerald --> Zena --> Ethan --> Cody --> Hope --> Jasmine --> Orla --> Melyssa --> Tana --> Phoebe --> Justine --> Cade --> Dacey --> Jared --> Avye --> back
+> calling print
+front --> Yoko --> Jacob --> Germane --> Zorita --> Gil --> Kelly --> Burke --> Ursa --> Hector --> Dai --> Lacy --> Rogan --> Fletcher --> Summer --> Melinda --> Russell --> Willa --> Jordan --> Curran --> Jonas --> Emerald --> Zena --> Ethan --> Cody --> Hope --> Jasmine --> Orla --> Melyssa --> Tana --> Phoebe --> Justine --> Cade --> Dacey --> Jared --> Avye --> back
+> calling deq
+dequeued Yoko
+> calling deq
+dequeued Jacob
+> calling print
+front --> Germane --> Zorita --> Gil --> Kelly --> Burke --> Ursa --> Hector --> Dai --> Lacy --> Rogan --> Fletcher --> Summer --> Melinda --> Russell --> Willa --> Jordan --> Curran --> Jonas --> Emerald --> Zena --> Ethan --> Cody --> Hope --> Jasmine --> Orla --> Melyssa --> Tana --> Phoebe --> Justine --> Cade --> Dacey --> Jared --> Avye --> back
+> calling deq
+dequeued Germane
+> calling size
+size: 32
+> calling isEmpty
+queue is not empty
+> calling enq
+> calling deq
+dequeued Zorita
+> calling isEmpty
+queue is not empty
+> calling deq
+dequeued Gil
+> calling deq
+dequeued Kelly
+> calling deq
+dequeued Burke
+> calling size
+size: 29
+> calling print
+front --> Ursa --> Hector --> Dai --> Lacy --> Rogan --> Fletcher --> Summer --> Melinda --> Russell --> Willa --> Jordan --> Curran --> Jonas --> Emerald --> Zena --> Ethan --> Cody --> Hope --> Jasmine --> Orla --> Melyssa --> Tana --> Phoebe --> Justine --> Cade --> Dacey --> Jared --> Avye --> Kamal --> back
+> calling print
+front --> Ursa --> Hector --> Dai --> Lacy --> Rogan --> Fletcher --> Summer --> Melinda --> Russell --> Willa --> Jordan --> Curran --> Jonas --> Emerald --> Zena --> Ethan --> Cody --> Hope --> Jasmine --> Orla --> Melyssa --> Tana --> Phoebe --> Justine --> Cade --> Dacey --> Jared --> Avye --> Kamal --> back
+> calling isEmpty
+queue is not empty
+> calling isEmpty
+queue is not empty
+> calling enq
+> calling print
+front --> Ursa --> Hector --> Dai --> Lacy --> Rogan --> Fletcher --> Summer --> Melinda --> Russell --> Willa --> Jordan --> Curran --> Jonas --> Emerald --> Zena --> Ethan --> Cody --> Hope --> Jasmine --> Orla --> Melyssa --> Tana --> Phoebe --> Justine --> Cade --> Dacey --> Jared --> Avye --> Kamal --> Nigel --> back
+> calling deq
+dequeued Ursa
+> calling deq
+dequeued Hector
+> calling size
+size: 28
+> calling print
+front --> Dai --> Lacy --> Rogan --> Fletcher --> Summer --> Melinda --> Russell --> Willa --> Jordan --> Curran --> Jonas --> Emerald --> Zena --> Ethan --> Cody --> Hope --> Jasmine --> Orla --> Melyssa --> Tana --> Phoebe --> Justine --> Cade --> Dacey --> Jared --> Avye --> Kamal --> Nigel --> back
+> calling print
+front --> Dai --> Lacy --> Rogan --> Fletcher --> Summer --> Melinda --> Russell --> Willa --> Jordan --> Curran --> Jonas --> Emerald --> Zena --> Ethan --> Cody --> Hope --> Jasmine --> Orla --> Melyssa --> Tana --> Phoebe --> Justine --> Cade --> Dacey --> Jared --> Avye --> Kamal --> Nigel --> back
+> calling enq
+> calling print
+front --> Dai --> Lacy --> Rogan --> Fletcher --> Summer --> Melinda --> Russell --> Willa --> Jordan --> Curran --> Jonas --> Emerald --> Zena --> Ethan --> Cody --> Hope --> Jasmine --> Orla --> Melyssa --> Tana --> Phoebe --> Justine --> Cade --> Dacey --> Jared --> Avye --> Kamal --> Nigel --> Nayda --> back
+> calling print
+front --> Dai --> Lacy --> Rogan --> Fletcher --> Summer --> Melinda --> Russell --> Willa --> Jordan --> Curran --> Jonas --> Emerald --> Zena --> Ethan --> Cody --> Hope --> Jasmine --> Orla --> Melyssa --> Tana --> Phoebe --> Justine --> Cade --> Dacey --> Jared --> Avye --> Kamal --> Nigel --> Nayda --> back
+> calling deq
+dequeued Dai
+> calling peek
+front: Lacy
+> calling enq
+> calling isEmpty
+queue is not empty
+> calling enq
+> calling peek
+front: Lacy
+> calling size
+size: 30
+> calling deq
+dequeued Lacy
+> calling deq
+dequeued Rogan
+> calling print
+front --> Fletcher --> Summer --> Melinda --> Russell --> Willa --> Jordan --> Curran --> Jonas --> Emerald --> Zena --> Ethan --> Cody --> Hope --> Jasmine --> Orla --> Melyssa --> Tana --> Phoebe --> Justine --> Cade --> Dacey --> Jared --> Avye --> Kamal --> Nigel --> Nayda --> Graiden --> Tarik --> back
+> calling deq
+dequeued Fletcher
+> calling peek
+front: Summer
+> calling isEmpty
+queue is not empty
+> calling print
+front --> Summer --> Melinda --> Russell --> Willa --> Jordan --> Curran --> Jonas --> Emerald --> Zena --> Ethan --> Cody --> Hope --> Jasmine --> Orla --> Melyssa --> Tana --> Phoebe --> Justine --> Cade --> Dacey --> Jared --> Avye --> Kamal --> Nigel --> Nayda --> Graiden --> Tarik --> back
+> calling deq
+dequeued Summer
+> calling deq
+dequeued Melinda
+> calling deq
+dequeued Russell
+> calling deq
+dequeued Willa
+> calling deq
+dequeued Jordan
+> calling deq
+dequeued Curran
+> calling peek
+front: Jonas
+> calling deq
+dequeued Jonas
+> calling peek
+front: Emerald
+> calling isEmpty
+queue is not empty
+> calling deq
+dequeued Emerald
+> calling size
+size: 19
+> calling peek
+front: Zena
+> calling print
+front --> Zena --> Ethan --> Cody --> Hope --> Jasmine --> Orla --> Melyssa --> Tana --> Phoebe --> Justine --> Cade --> Dacey --> Jared --> Avye --> Kamal --> Nigel --> Nayda --> Graiden --> Tarik --> back
+> calling size
+size: 19
+> calling print
+front --> Zena --> Ethan --> Cody --> Hope --> Jasmine --> Orla --> Melyssa --> Tana --> Phoebe --> Justine --> Cade --> Dacey --> Jared --> Avye --> Kamal --> Nigel --> Nayda --> Graiden --> Tarik --> back
+> calling print
+front --> Zena --> Ethan --> Cody --> Hope --> Jasmine --> Orla --> Melyssa --> Tana --> Phoebe --> Justine --> Cade --> Dacey --> Jared --> Avye --> Kamal --> Nigel --> Nayda --> Graiden --> Tarik --> back
+> calling size
+size: 19
+> calling print
+front --> Zena --> Ethan --> Cody --> Hope --> Jasmine --> Orla --> Melyssa --> Tana --> Phoebe --> Justine --> Cade --> Dacey --> Jared --> Avye --> Kamal --> Nigel --> Nayda --> Graiden --> Tarik --> back
+> calling isEmpty
+queue is not empty
+> calling isEmpty
+queue is not empty
+> calling print
+front --> Zena --> Ethan --> Cody --> Hope --> Jasmine --> Orla --> Melyssa --> Tana --> Phoebe --> Justine --> Cade --> Dacey --> Jared --> Avye --> Kamal --> Nigel --> Nayda --> Graiden --> Tarik --> back
+> calling isEmpty
+queue is not empty
+> calling size
+size: 19
+> calling deq
+dequeued Zena
+> calling deq
+dequeued Ethan
+> calling deq
+dequeued Cody
+> calling enq
+> calling enq
+> calling isEmpty
+queue is not empty
+> calling peek
+front: Hope
+> calling isEmpty
+queue is not empty
+> calling size
+size: 18
+> calling print
+front --> Hope --> Jasmine --> Orla --> Melyssa --> Tana --> Phoebe --> Justine --> Cade --> Dacey --> Jared --> Avye --> Kamal --> Nigel --> Nayda --> Graiden --> Tarik --> Magee --> Imelda --> back
+> calling deq
+dequeued Hope
+> calling enq
+> calling enq
+> calling size
+size: 19
+> calling peek
+front: Jasmine
+> calling peek
+front: Jasmine
+> calling isEmpty
+queue is not empty
+> calling peek
+front: Jasmine
+> calling enq
+> calling enq
+> calling deq
+dequeued Jasmine
+> calling print
+front --> Orla --> Melyssa --> Tana --> Phoebe --> Justine --> Cade --> Dacey --> Jared --> Avye --> Kamal --> Nigel --> Nayda --> Graiden --> Tarik --> Magee --> Imelda --> Tarik --> Mariam --> Raymond --> Robin --> back
+> calling peek
+front: Orla
+> calling print
+front --> Orla --> Melyssa --> Tana --> Phoebe --> Justine --> Cade --> Dacey --> Jared --> Avye --> Kamal --> Nigel --> Nayda --> Graiden --> Tarik --> Magee --> Imelda --> Tarik --> Mariam --> Raymond --> Robin --> back
+> calling enq
+> calling deq
+dequeued Orla
+> calling isEmpty
+queue is not empty
+> calling size
+size: 20
+> calling deq
+dequeued Melyssa
+> calling isEmpty
+queue is not empty
+> calling deq
+dequeued Tana
+> calling peek
+front: Phoebe
+> calling peek
+front: Phoebe
+> calling print
+front --> Phoebe --> Justine --> Cade --> Dacey --> Jared --> Avye --> Kamal --> Nigel --> Nayda --> Graiden --> Tarik --> Magee --> Imelda --> Tarik --> Mariam --> Raymond --> Robin --> Rogan --> back
+> calling deq
+dequeued Phoebe
+> calling peek
+front: Justine
+> calling size
+size: 17
+> calling size
+size: 17
+> calling peek
+front: Justine
+> calling isEmpty
+queue is not empty
+> calling peek
+front: Justine
+> calling isEmpty
+queue is not empty
+> calling print
+front --> Justine --> Cade --> Dacey --> Jared --> Avye --> Kamal --> Nigel --> Nayda --> Graiden --> Tarik --> Magee --> Imelda --> Tarik --> Mariam --> Raymond --> Robin --> Rogan --> back
+> calling enq
+> calling deq
+dequeued Justine
+> calling isEmpty
+queue is not empty
+> calling size
+size: 17
+> calling peek
+front: Cade
+> calling deq
+dequeued Cade
+> calling deq
+dequeued Dacey
+> calling size
+size: 15
+> calling size
+size: 15
+> calling isEmpty
+queue is not empty
+> calling size
+size: 15
+> calling enq
+> calling isEmpty
+queue is not empty
+> calling peek
+front: Jared
+> calling print
+front --> Jared --> Avye --> Kamal --> Nigel --> Nayda --> Graiden --> Tarik --> Magee --> Imelda --> Tarik --> Mariam --> Raymond --> Robin --> Rogan --> Nayda --> Cally --> back
+> calling size
+size: 16
+> calling enq
+> calling isEmpty
+queue is not empty
+> calling isEmpty
+queue is not empty
+> calling isEmpty
+queue is not empty
+> calling enq
+> calling deq
+dequeued Jared
+> calling enq
+> calling deq
+dequeued Avye
+> calling enq
+> calling deq
+dequeued Kamal
+> calling deq
+dequeued Nigel
+> calling peek
+front: Nayda
+> calling peek
+front: Nayda
+> calling peek
+front: Nayda
+> calling isEmpty
+queue is not empty
+> calling isEmpty
+queue is not empty
+> calling peek
+front: Nayda
+> calling isEmpty
+queue is not empty
+> calling print
+front --> Nayda --> Graiden --> Tarik --> Magee --> Imelda --> Tarik --> Mariam --> Raymond --> Robin --> Rogan --> Nayda --> Cally --> Benjamin --> Upton --> Thaddeus --> Adrienne --> back
+> calling isEmpty
+queue is not empty
+> calling peek
+front: Nayda
+> calling enq
+> calling print
+front --> Nayda --> Graiden --> Tarik --> Magee --> Imelda --> Tarik --> Mariam --> Raymond --> Robin --> Rogan --> Nayda --> Cally --> Benjamin --> Upton --> Thaddeus --> Adrienne --> Maisie --> back
+> calling size
+size: 17
+> calling size
+size: 17
+> calling isEmpty
+queue is not empty
+> calling deq
+dequeued Nayda
+> calling size
+size: 16
+> calling peek
+front: Graiden
+> calling size
+size: 16
+> calling deq
+dequeued Graiden
+> calling peek
+front: Tarik
+> calling size
+size: 15
+> calling deq
+dequeued Tarik
+> calling print
+front --> Magee --> Imelda --> Tarik --> Mariam --> Raymond --> Robin --> Rogan --> Nayda --> Cally --> Benjamin --> Upton --> Thaddeus --> Adrienne --> Maisie --> back
+> calling isEmpty
+queue is not empty
+> calling isEmpty
+queue is not empty
+> calling peek
+front: Magee
+> calling isEmpty
+queue is not empty
+> calling isEmpty
+queue is not empty
+> calling enq
+> calling deq
+dequeued Magee
+> calling size
+size: 14
+> calling print
+front --> Imelda --> Tarik --> Mariam --> Raymond --> Robin --> Rogan --> Nayda --> Cally --> Benjamin --> Upton --> Thaddeus --> Adrienne --> Maisie --> Malachi --> back
+> calling deq
+dequeued Imelda
+> calling size
+size: 13
+> calling enq
+> calling peek
+front: Tarik
+> calling deq
+dequeued Tarik
+> calling size
+size: 13
+> calling size
+size: 13
+> calling print
+front --> Mariam --> Raymond --> Robin --> Rogan --> Nayda --> Cally --> Benjamin --> Upton --> Thaddeus --> Adrienne --> Maisie --> Malachi --> Bethany --> back
+> calling isEmpty
+queue is not empty
+> calling peek
+front: Mariam
+> calling peek
+front: Mariam
+> calling enq
+> calling enq
+> calling size
+size: 15
+> calling print
+front --> Mariam --> Raymond --> Robin --> Rogan --> Nayda --> Cally --> Benjamin --> Upton --> Thaddeus --> Adrienne --> Maisie --> Malachi --> Bethany --> Stacy --> Jasmine --> back
+> calling peek
+front: Mariam
+> calling size
+size: 15
+> calling size
+size: 15
+> calling enq
+> calling enq
+> calling isEmpty
+queue is not empty
+> calling deq
+dequeued Mariam
+> calling print
+front --> Raymond --> Robin --> Rogan --> Nayda --> Cally --> Benjamin --> Upton --> Thaddeus --> Adrienne --> Maisie --> Malachi --> Bethany --> Stacy --> Jasmine --> Iona --> Rose --> back
+> calling peek
+front: Raymond
+> calling deq
+dequeued Raymond
+> calling peek
+front: Robin
+> calling size
+size: 15
+> calling peek
+front: Robin
+> calling enq
+> calling isEmpty
+queue is not empty
+> calling isEmpty
+queue is not empty
+> calling peek
+front: Robin
+> calling print
+front --> Robin --> Rogan --> Nayda --> Cally --> Benjamin --> Upton --> Thaddeus --> Adrienne --> Maisie --> Malachi --> Bethany --> Stacy --> Jasmine --> Iona --> Rose --> Craig --> back
+> calling deq
+dequeued Robin
+> calling isEmpty
+queue is not empty
+> calling size
+size: 15
+> calling deq
+dequeued Rogan
+> calling isEmpty
+queue is not empty
+> calling size
+size: 14
+> calling deq
+dequeued Nayda
+> calling enq
+> calling print
+front --> Cally --> Benjamin --> Upton --> Thaddeus --> Adrienne --> Maisie --> Malachi --> Bethany --> Stacy --> Jasmine --> Iona --> Rose --> Craig --> Risa --> back
+> calling print
+front --> Cally --> Benjamin --> Upton --> Thaddeus --> Adrienne --> Maisie --> Malachi --> Bethany --> Stacy --> Jasmine --> Iona --> Rose --> Craig --> Risa --> back
+> calling peek
+front: Cally
+> calling enq
+> calling print
+front --> Cally --> Benjamin --> Upton --> Thaddeus --> Adrienne --> Maisie --> Malachi --> Bethany --> Stacy --> Jasmine --> Iona --> Rose --> Craig --> Risa --> Palmer --> back
+> calling deq
+dequeued Cally
+> calling isEmpty
+queue is not empty
+> calling peek
+front: Benjamin
+> calling size
+size: 14
+> calling size
+size: 14
+> calling peek
+front: Benjamin
+> calling deq
+dequeued Benjamin
+> calling deq
+dequeued Upton
+> calling isEmpty
+queue is not empty
+> calling enq
+> calling isEmpty
+queue is not empty
+> calling size
+size: 13
+> calling size
+size: 13
+> calling print
+front --> Thaddeus --> Adrienne --> Maisie --> Malachi --> Bethany --> Stacy --> Jasmine --> Iona --> Rose --> Craig --> Risa --> Palmer --> Zena --> back
+> calling peek
+front: Thaddeus
+> calling isEmpty
+queue is not empty
+> calling enq
+> calling print
+front --> Thaddeus --> Adrienne --> Maisie --> Malachi --> Bethany --> Stacy --> Jasmine --> Iona --> Rose --> Craig --> Risa --> Palmer --> Zena --> Zorita --> back
+> calling enq
+> calling enq
+> calling enq
+> calling peek
+front: Thaddeus
+> calling isEmpty
+queue is not empty
+> calling deq
+dequeued Thaddeus
+> calling isEmpty
+queue is not empty
+> calling print
+front --> Adrienne --> Maisie --> Malachi --> Bethany --> Stacy --> Jasmine --> Iona --> Rose --> Craig --> Risa --> Palmer --> Zena --> Zorita --> Talon --> Lionel --> Quyn --> back
+> calling isEmpty
+queue is not empty
+> calling enq
+> calling peek
+front: Adrienne
+> calling deq
+dequeued Adrienne
+> calling peek
+front: Maisie
+> calling isEmpty
+queue is not empty
+> calling size
+size: 16
+> calling isEmpty
+queue is not empty
+> calling isEmpty
+queue is not empty
+> calling peek
+front: Maisie
+> calling enq
+> calling print
+front --> Maisie --> Malachi --> Bethany --> Stacy --> Jasmine --> Iona --> Rose --> Craig --> Risa --> Palmer --> Zena --> Zorita --> Talon --> Lionel --> Quyn --> Wynter --> Nero --> back
+> calling print
+front --> Maisie --> Malachi --> Bethany --> Stacy --> Jasmine --> Iona --> Rose --> Craig --> Risa --> Palmer --> Zena --> Zorita --> Talon --> Lionel --> Quyn --> Wynter --> Nero --> back
+> calling enq
+> calling size
+size: 18
+> calling peek
+front: Maisie
+> calling peek
+front: Maisie
+> calling isEmpty
+queue is not empty
+> calling peek
+front: Maisie
+> calling deq
+dequeued Maisie
+> calling isEmpty
+queue is not empty
+> calling enq
+> calling print
+front --> Malachi --> Bethany --> Stacy --> Jasmine --> Iona --> Rose --> Craig --> Risa --> Palmer --> Zena --> Zorita --> Talon --> Lionel --> Quyn --> Wynter --> Nero --> Burke --> Dana --> back
+> calling isEmpty
+queue is not empty
+> calling peek
+front: Malachi
+> calling enq
+> calling deq
+dequeued Malachi
+> calling enq
+> calling print
+front --> Bethany --> Stacy --> Jasmine --> Iona --> Rose --> Craig --> Risa --> Palmer --> Zena --> Zorita --> Talon --> Lionel --> Quyn --> Wynter --> Nero --> Burke --> Dana --> Erich --> Gareth --> back
+> calling enq
+> calling deq
+dequeued Bethany
+> calling deq
+dequeued Stacy
+> calling print
+front --> Jasmine --> Iona --> Rose --> Craig --> Risa --> Palmer --> Zena --> Zorita --> Talon --> Lionel --> Quyn --> Wynter --> Nero --> Burke --> Dana --> Erich --> Gareth --> Neville --> back
+> calling print
+front --> Jasmine --> Iona --> Rose --> Craig --> Risa --> Palmer --> Zena --> Zorita --> Talon --> Lionel --> Quyn --> Wynter --> Nero --> Burke --> Dana --> Erich --> Gareth --> Neville --> back
+> calling deq
+dequeued Jasmine
+> calling size
+size: 17
+> calling print
+front --> Iona --> Rose --> Craig --> Risa --> Palmer --> Zena --> Zorita --> Talon --> Lionel --> Quyn --> Wynter --> Nero --> Burke --> Dana --> Erich --> Gareth --> Neville --> back
+> calling peek
+front: Iona
+> calling size
+size: 17
+> calling size
+size: 17
+> calling isEmpty
+queue is not empty
+> calling enq
+> calling size
+size: 18
+> calling size
+size: 18
+> calling print
+front --> Iona --> Rose --> Craig --> Risa --> Palmer --> Zena --> Zorita --> Talon --> Lionel --> Quyn --> Wynter --> Nero --> Burke --> Dana --> Erich --> Gareth --> Neville --> Zephania --> back
+> calling print
+front --> Iona --> Rose --> Craig --> Risa --> Palmer --> Zena --> Zorita --> Talon --> Lionel --> Quyn --> Wynter --> Nero --> Burke --> Dana --> Erich --> Gareth --> Neville --> Zephania --> back
+> calling size
+size: 18
+> calling deq
+dequeued Iona
+> calling deq
+dequeued Rose
+> calling size
+size: 16
+> calling deq
+dequeued Craig
+> calling isEmpty
+queue is not empty
+> calling enq
+> calling size
+size: 16
+> calling print
+front --> Risa --> Palmer --> Zena --> Zorita --> Talon --> Lionel --> Quyn --> Wynter --> Nero --> Burke --> Dana --> Erich --> Gareth --> Neville --> Zephania --> Pandora --> back
+> calling deq
+dequeued Risa
+> calling peek
+front: Palmer
+> calling size
+size: 15
+> calling isEmpty
+queue is not empty
+> calling print
+front --> Palmer --> Zena --> Zorita --> Talon --> Lionel --> Quyn --> Wynter --> Nero --> Burke --> Dana --> Erich --> Gareth --> Neville --> Zephania --> Pandora --> back
+> calling print
+front --> Palmer --> Zena --> Zorita --> Talon --> Lionel --> Quyn --> Wynter --> Nero --> Burke --> Dana --> Erich --> Gareth --> Neville --> Zephania --> Pandora --> back
+> calling print
+front --> Palmer --> Zena --> Zorita --> Talon --> Lionel --> Quyn --> Wynter --> Nero --> Burke --> Dana --> Erich --> Gareth --> Neville --> Zephania --> Pandora --> back
+> calling isEmpty
+queue is not empty
+> calling deq
+dequeued Palmer
+> calling enq
+> calling size
+size: 15
+> calling isEmpty
+queue is not empty
+> calling size
+size: 15
+> calling size
+size: 15
+> calling size
+size: 15
+> calling size
+size: 15
+> calling isEmpty
+queue is not empty
+> calling enq
+> calling deq
+dequeued Zena
+> calling isEmpty
+queue is not empty
+> calling enq
+> calling print
+front --> Zorita --> Talon --> Lionel --> Quyn --> Wynter --> Nero --> Burke --> Dana --> Erich --> Gareth --> Neville --> Zephania --> Pandora --> Ora --> Phyllis --> Beatrice --> back
+> calling enq
+> calling size
+size: 17
+> calling size
+size: 17
+> calling enq
+> calling peek
+front: Zorita
+> calling size
+size: 18
+> calling size
+size: 18
+> calling size
+size: 18
+> calling peek
+front: Zorita
+> calling isEmpty
+queue is not empty
+> calling deq
+dequeued Zorita
+> calling print
+front --> Talon --> Lionel --> Quyn --> Wynter --> Nero --> Burke --> Dana --> Erich --> Gareth --> Neville --> Zephania --> Pandora --> Ora --> Phyllis --> Beatrice --> Pandora --> Quyn --> back
+> calling peek
+front: Talon
+> calling isEmpty
+queue is not empty
+> calling size
+size: 17
+> calling deq
+dequeued Talon
+> calling deq
+dequeued Lionel
+> calling isEmpty
+queue is not empty
+> calling enq
+> calling peek
+front: Quyn
+> calling size
+size: 16
+> calling enq
+> calling isEmpty
+queue is not empty
+> calling peek
+front: Quyn
+> calling peek
+front: Quyn
+> calling peek
+front: Quyn
+> calling size
+size: 17
+> calling isEmpty
+queue is not empty
+> calling enq
+> calling peek
+front: Quyn
+> calling peek
+front: Quyn
+> calling deq
+dequeued Quyn
+> calling enq
+> calling isEmpty
+queue is not empty
+> calling deq
+dequeued Wynter
+> calling enq
+> calling peek
+front: Nero
+> calling size
+size: 18
+> calling size
+size: 18
+> calling enq
+> calling isEmpty
+queue is not empty
+> calling peek
+front: Nero
+> calling size
+size: 19
+> calling peek
+front: Nero
+> calling peek
+front: Nero
+> calling deq
+dequeued Nero
+> calling size
+size: 18
+> calling peek
+front: Burke
+> calling print
+front --> Burke --> Dana --> Erich --> Gareth --> Neville --> Zephania --> Pandora --> Ora --> Phyllis --> Beatrice --> Pandora --> Quyn --> Kamal --> Iona --> Jonas --> Amber --> Hasad --> Jasper --> back
+> calling enq
+> calling peek
+front: Burke
+> calling peek
+front: Burke
+> calling deq
+dequeued Burke
+> calling deq
+dequeued Dana
+> calling size
+size: 17
+> calling isEmpty
+queue is not empty
+> calling isEmpty
+queue is not empty
+> calling deq
+dequeued Erich
+> calling size
+size: 16
+> calling enq
+> calling deq
+dequeued Gareth
+> calling deq
+dequeued Neville
+> calling print
+front --> Zephania --> Pandora --> Ora --> Phyllis --> Beatrice --> Pandora --> Quyn --> Kamal --> Iona --> Jonas --> Amber --> Hasad --> Jasper --> Alden --> Barrett --> back
+> calling deq
+dequeued Zephania
+> calling enq
+> calling isEmpty
+queue is not empty
+> calling deq
+dequeued Pandora
+> calling print
+front --> Ora --> Phyllis --> Beatrice --> Pandora --> Quyn --> Kamal --> Iona --> Jonas --> Amber --> Hasad --> Jasper --> Alden --> Barrett --> Wilma --> back
+> calling enq
+> calling size
+size: 15
+> calling enq
+> calling isEmpty
+queue is not empty
+> calling size
+size: 16
+> calling size
+size: 16
+> calling print
+front --> Ora --> Phyllis --> Beatrice --> Pandora --> Quyn --> Kamal --> Iona --> Jonas --> Amber --> Hasad --> Jasper --> Alden --> Barrett --> Wilma --> Doris --> Constance --> back
+> calling enq
+> calling enq
+> calling enq
+> calling isEmpty
+queue is not empty
+> calling isEmpty
+queue is not empty
+> calling deq
+dequeued Ora
+> calling enq
+> calling peek
+front: Phyllis
+> calling peek
+front: Phyllis
+> calling peek
+front: Phyllis
+> calling peek
+front: Phyllis
+> calling isEmpty
+queue is not empty
+> calling peek
+front: Phyllis
+> calling size
+size: 19
+> calling deq
+dequeued Phyllis
+> calling size
+size: 18
+> calling print
+front --> Beatrice --> Pandora --> Quyn --> Kamal --> Iona --> Jonas --> Amber --> Hasad --> Jasper --> Alden --> Barrett --> Wilma --> Doris --> Constance --> Cameron --> Lionel --> Whitney --> Whitney --> back
+> calling enq
+> calling isEmpty
+queue is not empty
+> calling isEmpty
+queue is not empty
+> calling peek
+front: Beatrice
+> calling peek
+front: Beatrice
+> calling peek
+front: Beatrice
+> calling enq
+> calling enq
+> calling deq
+dequeued Beatrice
+> calling isEmpty
+queue is not empty
+> calling isEmpty
+queue is not empty
+> calling deq
+dequeued Pandora
+> calling print
+front --> Quyn --> Kamal --> Iona --> Jonas --> Amber --> Hasad --> Jasper --> Alden --> Barrett --> Wilma --> Doris --> Constance --> Cameron --> Lionel --> Whitney --> Whitney --> Breanna --> Benjamin --> Eliana --> back
+> calling size
+size: 19
+> calling peek
+front: Quyn
+> calling peek
+front: Quyn
+> calling print
+front --> Quyn --> Kamal --> Iona --> Jonas --> Amber --> Hasad --> Jasper --> Alden --> Barrett --> Wilma --> Doris --> Constance --> Cameron --> Lionel --> Whitney --> Whitney --> Breanna --> Benjamin --> Eliana --> back
+> calling deq
+dequeued Quyn
+> calling size
+size: 18
+> calling isEmpty
+queue is not empty
+> calling peek
+front: Kamal
+> calling print
+front --> Kamal --> Iona --> Jonas --> Amber --> Hasad --> Jasper --> Alden --> Barrett --> Wilma --> Doris --> Constance --> Cameron --> Lionel --> Whitney --> Whitney --> Breanna --> Benjamin --> Eliana --> back
+> calling size
+size: 18
+> calling deq
+dequeued Kamal
+> calling print
+front --> Iona --> Jonas --> Amber --> Hasad --> Jasper --> Alden --> Barrett --> Wilma --> Doris --> Constance --> Cameron --> Lionel --> Whitney --> Whitney --> Breanna --> Benjamin --> Eliana --> back
+> calling size
+size: 17
+> calling print
+front --> Iona --> Jonas --> Amber --> Hasad --> Jasper --> Alden --> Barrett --> Wilma --> Doris --> Constance --> Cameron --> Lionel --> Whitney --> Whitney --> Breanna --> Benjamin --> Eliana --> back
+> calling print
+front --> Iona --> Jonas --> Amber --> Hasad --> Jasper --> Alden --> Barrett --> Wilma --> Doris --> Constance --> Cameron --> Lionel --> Whitney --> Whitney --> Breanna --> Benjamin --> Eliana --> back
+> calling deq
+dequeued Iona
+> calling print
+front --> Jonas --> Amber --> Hasad --> Jasper --> Alden --> Barrett --> Wilma --> Doris --> Constance --> Cameron --> Lionel --> Whitney --> Whitney --> Breanna --> Benjamin --> Eliana --> back
+> calling print
+front --> Jonas --> Amber --> Hasad --> Jasper --> Alden --> Barrett --> Wilma --> Doris --> Constance --> Cameron --> Lionel --> Whitney --> Whitney --> Breanna --> Benjamin --> Eliana --> back
+> calling size
+size: 16
+> calling deq
+dequeued Jonas
+> calling size
+size: 15
+> calling isEmpty
+queue is not empty
+> calling size
+size: 15
+> calling isEmpty
+queue is not empty
+> calling size
+size: 15
+> calling print
+front --> Amber --> Hasad --> Jasper --> Alden --> Barrett --> Wilma --> Doris --> Constance --> Cameron --> Lionel --> Whitney --> Whitney --> Breanna --> Benjamin --> Eliana --> back
+> calling size
+size: 15
+> calling size
+size: 15
+> calling peek
+front: Amber
+> calling isEmpty
+queue is not empty
+> calling print
+front --> Amber --> Hasad --> Jasper --> Alden --> Barrett --> Wilma --> Doris --> Constance --> Cameron --> Lionel --> Whitney --> Whitney --> Breanna --> Benjamin --> Eliana --> back
+> calling enq
+> calling size
+size: 16
+> calling print
+front --> Amber --> Hasad --> Jasper --> Alden --> Barrett --> Wilma --> Doris --> Constance --> Cameron --> Lionel --> Whitney --> Whitney --> Breanna --> Benjamin --> Eliana --> Emmanuel --> back
+> calling size
+size: 16
+> calling peek
+front: Amber
+> calling enq
+> calling peek
+front: Amber
+> calling size
+size: 17
+> calling enq
+> calling enq
+> calling enq
+> calling print
+front --> Amber --> Hasad --> Jasper --> Alden --> Barrett --> Wilma --> Doris --> Constance --> Cameron --> Lionel --> Whitney --> Whitney --> Breanna --> Benjamin --> Eliana --> Emmanuel --> Phyllis --> Tara --> Mufutau --> Geoffrey --> back
+> calling size
+size: 20
+> calling isEmpty
+queue is not empty
+> calling size
+size: 20
+> calling print
+front --> Amber --> Hasad --> Jasper --> Alden --> Barrett --> Wilma --> Doris --> Constance --> Cameron --> Lionel --> Whitney --> Whitney --> Breanna --> Benjamin --> Eliana --> Emmanuel --> Phyllis --> Tara --> Mufutau --> Geoffrey --> back
+> calling enq
+> calling peek
+front: Amber
+> calling size
+size: 21
+> calling enq
+> calling isEmpty
+queue is not empty
+> calling isEmpty
+queue is not empty
+> calling enq
+> calling print
+front --> Amber --> Hasad --> Jasper --> Alden --> Barrett --> Wilma --> Doris --> Constance --> Cameron --> Lionel --> Whitney --> Whitney --> Breanna --> Benjamin --> Eliana --> Emmanuel --> Phyllis --> Tara --> Mufutau --> Geoffrey --> Christian --> Pascale --> Phoebe --> back
+> calling size
+size: 23
+> calling print
+front --> Amber --> Hasad --> Jasper --> Alden --> Barrett --> Wilma --> Doris --> Constance --> Cameron --> Lionel --> Whitney --> Whitney --> Breanna --> Benjamin --> Eliana --> Emmanuel --> Phyllis --> Tara --> Mufutau --> Geoffrey --> Christian --> Pascale --> Phoebe --> back

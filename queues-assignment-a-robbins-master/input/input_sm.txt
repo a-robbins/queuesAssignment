@@ -1,0 +1,42 @@
+enq 331
+enq 434
+enq 305
+size
+enq 305
+print
+enq 170
+size
+enq 331
+size
+deq
+size
+enq 170
+print
+enq 434
+enq 373
+size
+deq
+peek
+print
+size
+enq 434
+enq 373
+enq 257
+enq 305
+enq 490
+enq 373
+size
+deq
+size
+peek
+enq 490
+enq 434
+size
+deq
+size
+print
+size
+deq
+peek
+size
+print

@@ -1,0 +1,379 @@
+enq 311
+enq 15452
+enq 15622
+enq 1043
+enq 252
+size
+enq 13821
+print
+enq 4550
+enq 16490
+enq 24775
+enq 2489
+enq 5461
+enq 21760
+enq 6295
+enq 20756
+enq 17559
+print
+enq 1719
+deq
+enq 12519
+size
+enq 24350
+enq 23292
+print
+enq 5244
+deq
+enq 19241
+enq 4444
+enq 19646
+enq 15387
+enq 9796
+enq 10870
+enq 16064
+enq 6769
+enq 15349
+enq 1360
+enq 24495
+size
+enq 19625
+enq 21129
+deq
+enq 3107
+enq 7175
+enq 15702
+enq 5607
+size
+enq 1793
+enq 17386
+enq 8462
+enq 5263
+enq 2770
+enq 11513
+enq 18524
+enq 17767
+enq 21300
+deq
+enq 18344
+enq 8704
+enq 4906
+enq 1837
+enq 12077
+enq 8962
+enq 21766
+enq 7581
+print
+enq 12484
+enq 12332
+enq 23229
+deq
+enq 23043
+size
+enq 24971
+enq 19567
+enq 23833
+enq 24143
+enq 2808
+print
+enq 3999
+print
+enq 17062
+enq 23559
+print
+enq 22976
+enq 14033
+enq 7321
+enq 19598
+enq 23784
+size
+enq 3054
+size
+enq 3034
+enq 10780
+enq 20911
+enq 19239
+print
+enq 10961
+enq 6746
+enq 16813
+enq 16480
+enq 21160
+enq 22809
+enq 17000
+enq 7409
+enq 18671
+enq 5887
+enq 10408
+enq 14449
+enq 1357
+enq 15834
+enq 9013
+enq 20528
+enq 6085
+enq 9758
+enq 15649
+enq 16532
+enq 22761
+enq 14819
+enq 14003
+enq 15871
+enq 7582
+enq 21528
+size
+enq 203
+enq 16008
+deq
+enq 9192
+enq 19811
+enq 11845
+enq 1153
+enq 3869
+enq 6447
+print
+enq 16170
+deq
+enq 24782
+enq 2214
+deq
+enq 5245
+enq 2853
+print
+enq 10712
+enq 18824
+enq 14031
+deq
+enq 10849
+enq 19505
+enq 21460
+enq 15870
+size
+enq 4675
+enq 2185
+enq 3625
+enq 22340
+enq 14153
+enq 6448
+enq 2469
+enq 5015
+enq 18636
+print
+enq 14942
+enq 14698
+enq 11198
+enq 938
+enq 8690
+enq 6885
+size
+enq 14038
+enq 11911
+enq 14060
+enq 20367
+deq
+enq 22204
+enq 24947
+enq 6801
+deq
+enq 12379
+enq 24906
+deq
+enq 14614
+enq 2739
+size
+enq 29
+enq 18941
+enq 14409
+size
+enq 7344
+deq
+enq 20778
+deq
+enq 1394
+enq 55
+enq 662
+enq 23255
+enq 9144
+enq 4973
+enq 10480
+enq 17269
+enq 135
+deq
+enq 5132
+enq 1679
+enq 1303
+enq 24991
+enq 1768
+enq 9900
+size
+enq 20545
+enq 4047
+deq
+enq 17874
+print
+enq 7327
+enq 22270
+enq 2050
+enq 23634
+size
+enq 202
+enq 11839
+enq 20495
+enq 20887
+enq 3893
+enq 7573
+enq 3251
+enq 23182
+enq 12856
+enq 20604
+deq
+enq 2085
+print
+enq 3968
+enq 15123
+enq 8234
+enq 23559
+enq 19235
+enq 9001
+enq 14157
+size
+enq 24203
+enq 5413
+enq 18401
+enq 23553
+enq 24694
+enq 16425
+enq 9321
+print
+enq 24061
+enq 24933
+print
+enq 19367
+enq 4787
+enq 4017
+deq
+enq 19007
+enq 23615
+enq 20925
+deq
+enq 9004
+enq 18120
+deq
+enq 9490
+enq 12815
+enq 13287
+size
+enq 12195
+size
+enq 15232
+enq 16025
+enq 22082
+enq 3384
+print
+enq 18411
+deq
+enq 4935
+print
+enq 23281
+enq 24278
+enq 23427
+enq 16764
+print
+enq 12903
+size
+enq 18842
+enq 2701
+enq 16633
+enq 20234
+enq 16406
+enq 17878
+enq 4379
+enq 9934
+enq 6110
+enq 15428
+enq 11298
+deq
+enq 8757
+size
+enq 15658
+enq 18720
+enq 784
+enq 22979
+enq 8451
+print
+enq 11209
+enq 7835
+enq 24765
+print
+enq 6345
+print
+enq 218
+enq 18830
+enq 11907
+print
+enq 11011
+enq 8692
+enq 3512
+enq 19666
+enq 14535
+size
+enq 5945
+enq 9606
+deq
+enq 18111
+size
+enq 16583
+enq 21153
+deq
+enq 4257
+print
+enq 19743
+print
+enq 3162
+print
+enq 8507
+enq 13326
+size
+enq 7727
+enq 14421
+size
+enq 15388
+enq 23996
+enq 20772
+enq 3002
+enq 23959
+enq 3131
+enq 6546
+print
+enq 13799
+enq 19872
+deq
+enq 12377
+enq 5476
+enq 3952
+enq 12843
+deq
+enq 1140
+deq
+enq 6503
+enq 23180
+enq 4012
+enq 18777
+deq
+enq 11037
+print
+enq 8981
+enq 14066
+enq 24952
+enq 10913
+enq 3070
+enq 8359
+enq 5470
+enq 24515
+enq 4160
+enq 17574
+deq
+enq 10453
+enq 15142
+enq 1817
+enq 1286
+enq 19616

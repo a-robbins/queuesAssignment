@@ -1,0 +1,88 @@
+print
+print
+size
+deq
+deq
+size
+size
+deq
+size
+size
+print
+deq
+isEmpty
+size
+deq
+peek
+size
+deq
+size
+peek
+peek
+enq Benedict
+enq Kamal
+isEmpty
+print
+peek
+deq
+isEmpty
+enq Olympia
+enq Hope
+print
+isEmpty
+peek
+size
+isEmpty
+enq Emery
+peek
+size
+deq
+print
+enq Macy
+size
+peek
+deq
+isEmpty
+size
+size
+peek
+peek
+isEmpty
+peek
+peek
+deq
+peek
+size
+isEmpty
+size
+isEmpty
+isEmpty
+enq Oprah
+peek
+enq Olympia
+print
+enq Omar
+deq
+peek
+peek
+peek
+deq
+size
+enq Amber
+enq Levi
+isEmpty
+peek
+enq Oleg
+print
+isEmpty
+peek
+size
+print
+deq
+enq Logan
+peek
+size
+peek
+size
+deq
+enq Colleen

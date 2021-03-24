@@ -1,0 +1,163 @@
+Accepting input
+> calling print
+front --> back
+> calling print
+front --> back
+> calling size
+size: 0
+> calling deq
+queue is empty
+> calling deq
+queue is empty
+> calling size
+size: 0
+> calling size
+size: 0
+> calling deq
+queue is empty
+> calling size
+size: 0
+> calling size
+size: 0
+> calling print
+front --> back
+> calling deq
+queue is empty
+> calling isEmpty
+queue is empty
+> calling size
+size: 0
+> calling deq
+queue is empty
+> calling peek
+queue is empty
+> calling size
+size: 0
+> calling deq
+queue is empty
+> calling size
+size: 0
+> calling peek
+queue is empty
+> calling peek
+queue is empty
+> calling enq
+> calling enq
+> calling isEmpty
+queue is not empty
+> calling print
+front --> Benedict --> Kamal --> back
+> calling peek
+front: Benedict
+> calling deq
+dequeued Benedict
+> calling isEmpty
+queue is not empty
+> calling enq
+> calling enq
+> calling print
+front --> Kamal --> Olympia --> Hope --> back
+> calling isEmpty
+queue is not empty
+> calling peek
+front: Kamal
+> calling size
+size: 3
+> calling isEmpty
+queue is not empty
+> calling enq
+> calling peek
+front: Kamal
+> calling size
+size: 4
+> calling deq
+dequeued Kamal
+> calling print
+front --> Olympia --> Hope --> Emery --> back
+> calling enq
+> calling size
+size: 4
+> calling peek
+front: Olympia
+> calling deq
+dequeued Olympia
+> calling isEmpty
+queue is not empty
+> calling size
+size: 3
+> calling size
+size: 3
+> calling peek
+front: Hope
+> calling peek
+front: Hope
+> calling isEmpty
+queue is not empty
+> calling peek
+front: Hope
+> calling peek
+front: Hope
+> calling deq
+dequeued Hope
+> calling peek
+front: Emery
+> calling size
+size: 2
+> calling isEmpty
+queue is not empty
+> calling size
+size: 2
+> calling isEmpty
+queue is not empty
+> calling isEmpty
+queue is not empty
+> calling enq
+> calling peek
+front: Emery
+> calling enq
+> calling print
+front --> Emery --> Macy --> Oprah --> Olympia --> back
+> calling enq
+> calling deq
+dequeued Emery
+> calling peek
+front: Macy
+> calling peek
+front: Macy
+> calling peek
+front: Macy
+> calling deq
+dequeued Macy
+> calling size
+size: 3
+> calling enq
+> calling enq
+> calling isEmpty
+queue is not empty
+> calling peek
+front: Oprah
+> calling enq
+> calling print
+front --> Oprah --> Olympia --> Omar --> Amber --> Levi --> Oleg --> back
+> calling isEmpty
+queue is not empty
+> calling peek
+front: Oprah
+> calling size
+size: 6
+> calling print
+front --> Oprah --> Olympia --> Omar --> Amber --> Levi --> Oleg --> back
+> calling deq
+dequeued Oprah
+> calling enq
+> calling peek
+front: Olympia
+> calling size
+size: 6
+> calling peek
+front: Olympia
+> calling size
+size: 6
+> calling deq
+dequeued Olympia
+> calling enq

@@ -1,0 +1,68 @@
+Accepting input
+> calling enq
+> calling enq
+> calling enq
+> calling size
+size: 3
+> calling enq
+> calling print
+front --> 331 --> 434 --> 305 --> 305 --> back
+> calling enq
+> calling size
+size: 5
+> calling enq
+> calling size
+size: 6
+> calling deq
+dequeued 331
+> calling size
+size: 5
+> calling enq
+> calling print
+front --> 434 --> 305 --> 305 --> 170 --> 331 --> 170 --> back
+> calling enq
+> calling enq
+> calling size
+size: 8
+> calling deq
+dequeued 434
+> calling peek
+front: 305
+> calling print
+front --> 305 --> 305 --> 170 --> 331 --> 170 --> 434 --> 373 --> back
+> calling size
+size: 7
+> calling enq
+> calling enq
+> calling enq
+> calling enq
+> calling enq
+> calling enq
+> calling size
+size: 13
+> calling deq
+dequeued 305
+> calling size
+size: 12
+> calling peek
+front: 305
+> calling enq
+> calling enq
+> calling size
+size: 14
+> calling deq
+dequeued 305
+> calling size
+size: 13
+> calling print
+front --> 170 --> 331 --> 170 --> 434 --> 373 --> 434 --> 373 --> 257 --> 305 --> 490 --> 373 --> 490 --> 434 --> back
+> calling size
+size: 13
+> calling deq
+dequeued 170
+> calling peek
+front: 331
+> calling size
+size: 12
+> calling print
+front --> 331 --> 170 --> 434 --> 373 --> 434 --> 373 --> 257 --> 305 --> 490 --> 373 --> 490 --> 434 --> back
